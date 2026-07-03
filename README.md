@@ -1,2 +1,3 @@
-# censo-El-Cortijo
-Historia y genealogía de El Cortijo (Logroño)
+# Censo de El Cortijo
+
+Web pública del proyecto histórico y genealógico de El Cortijo.
