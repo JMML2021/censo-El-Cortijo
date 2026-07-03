@@ -1,3 +1,3 @@
 # Censo de El Cortijo
 
-Web pública del proyecto histórico y genealógico de El Cortijo.
+Web con árbol genealógico interactivo y administración sencilla.

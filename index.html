@@ -1,1 +1,71 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Censo de El Cortijo</title><link rel="stylesheet" href="styles.css"></head><body><header><div class="wrap"><h1>Censo de El Cortijo</h1><p>Primera versión pública del proyecto histórico y genealógico de El Cortijo (Logroño), centrada en Celestina Ibarra González: dos generaciones por arriba y dos por abajo.</p></div></header><main class="wrap"><section class="toolbar"><input id="q" class="search" placeholder="Buscar persona, apellido, lugar, profesión..."><select id="rel" class="select"></select></section><section class="stats"><div class="stat"><b id="total">0</b><br>personas incluidas</div><div class="stat"><b>2 + 2</b><br>generaciones desde Celestina</div><div class="stat"><b>0 €</b><br>publicado con GitHub Pages</div></section><section class="layout"><aside><h2>Personas <span id="count"></span></h2><div id="list" class="list"></div></aside><article id="detail" class="card"></article></section></main><script src="data.js"></script><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Censo de El Cortijo - Árbol genealógico</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="tree">🌳</span><div><h1>Censo de El Cortijo</h1><small>Logroño · proyecto histórico y genealógico</small></div></div>
+  <nav><a href="#arbol">Árbol</a><a href="#personas">Personas</a><a href="#admin">Administración</a></nav>
+</header>
+<main>
+<section class="hero">
+  <div>
+    <h2>Árbol genealógico interactivo</h2>
+    <p>Busca una persona y se convertirá en la persona central. Se muestran 2 generaciones por arriba y 2 por abajo.</p>
+  </div>
+  <div class="searchBox">
+    <label for="search">Buscar persona central</label>
+    <div class="row"><input id="search" placeholder="Ej.: Celestina, Ibarra, Valdemoros..."><button id="searchBtn">Buscar</button></div>
+    <div id="suggestions" class="suggestions"></div>
+  </div>
+</section>
+<section id="arbol" class="layout">
+  <aside class="card side">
+    <h3>Persona central</h3>
+    <div id="centralCard"></div>
+    <hr>
+    <p><b>Generaciones:</b> ↑ 2 antepasados · ↓ 2 descendientes · incluye cónyuges.</p>
+    <button id="fitBtn" class="secondary">Encajar árbol</button>
+  </aside>
+  <section class="card treePanel">
+    <div class="toolbar"><button id="treeView" class="active">🌳 Árbol</button><button id="listView">☰ Lista</button><button onclick="window.print()">🖨️ Imprimir</button></div>
+    <div id="treeCanvas" class="treeCanvas"></div>
+    <div id="listCanvas" class="listCanvas hidden"></div>
+  </section>
+</section>
+<section id="personas" class="card">
+  <h2>Personas incluidas</h2>
+  <table id="peopleTable"><thead><tr><th>Nombre</th><th>Nacimiento</th><th>Defunción</th><th>Profesión</th><th></th></tr></thead><tbody></tbody></table>
+</section>
+<section id="admin" class="card admin">
+  <h2>Administración sencilla</h2>
+  <p>Esto funciona sin servidor. Los cambios manuales quedan guardados en este navegador. Para publicarlos definitivamente, después exportaremos el JSON y lo subiremos a GitHub.</p>
+  <div class="grid2">
+    <form id="personForm">
+      <h3>Añadir persona manualmente</h3>
+      <input name="name" placeholder="Nombre y apellidos" required>
+      <select name="sex"><option value="">Sexo</option><option value="M">Hombre</option><option value="F">Mujer</option></select>
+      <input name="birth" placeholder="Nacimiento, ej. 1864">
+      <input name="birthPlace" placeholder="Lugar de nacimiento">
+      <input name="death" placeholder="Defunción">
+      <input name="occupation" placeholder="Profesión">
+      <button>Añadir</button>
+    </form>
+    <div>
+      <h3>Subir / exportar datos</h3>
+      <label class="upload">Importar JSON de personas y familias <input type="file" id="importJson" accept=".json"></label>
+      <button id="exportJson" class="secondary">Descargar copia JSON</button>
+      <button id="resetData" class="danger">Restaurar datos iniciales</button>
+      <p class="note">Más adelante añadiremos importación GEDCOM completa y edición de parentescos desde pantalla.</p>
+    </div>
+  </div>
+</section>
+</main>
+<footer>Fuente de datos: GEDCOM filtrado de Celestina Ibarra González · Censo de El Cortijo</footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body></html>

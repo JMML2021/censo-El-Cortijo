@@ -1,11 +1,33 @@
-
-const $=s=>document.querySelector(s);let selected=null;
-function esc(s){return (s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
-function ageLine(p){return [p.nacimiento&&`Nac. ${p.nacimiento}`, p.lugar_nacimiento].filter(Boolean).join(' · ')}
-function filtered(){const q=$('#q').value.trim().toLowerCase();const rel=$('#rel').value;return PERSONAS.filter(p=>{let t=Object.values(p).filter(x=>typeof x==='string').join(' ').toLowerCase();return (!q||t.includes(q)) && (!rel||p.relacion===rel)}).sort((a,b)=>a.nombre.localeCompare(b.nombre,'es'));}
-function renderList(){const arr=filtered();$('#count').textContent=arr.length;$('#list').innerHTML=arr.map(p=>`<button class="person-btn ${selected===p.id?'active':''}" onclick="show('${p.id}')"><strong>${esc(p.nombre)}</strong><span>${esc(p.relacion||'')}<br>${esc(ageLine(p))}</span></button>`).join('')||'<div class="empty">No hay resultados.</div>';if(!selected&&arr[0])show(arr[0].id,false)}
-function linkList(items){return (items||[]).map(x=>`<a href="#" onclick="show('${x.id}');return false">${esc(x.nombre)}</a>`).join('')||'<span class="empty">—</span>'}
-function field(label,val){return `<div class="field"><small>${label}</small><div>${esc(val)||'—'}</div></div>`}
-function show(id,rerender=true){selected=id;const p=PERSONAS.find(x=>x.id===id);if(!p)return;$('#detail').innerHTML=`<span class="badge">${esc(p.relacion||'Persona incluida')}</span><h2>${esc(p.nombre)}</h2><div class="grid">${field('Nacimiento',p.nacimiento)}${field('Lugar nacimiento',p.lugar_nacimiento)}${field('Defunción',p.defuncion)}${field('Lugar defunción',p.lugar_defuncion)}${field('Profesión',p.profesion)}</div><h3>Familia</h3><div class="links"><b>Padres:</b><br>${linkList(p.padres)}<br><br><b>Cónyuges:</b><br>${linkList(p.conyuges)}<br><br><b>Hijos:</b><br>${linkList(p.hijos)}</div>${p.notas?`<div class="note"><b>Notas</b><br>${esc(p.notas)}</div>`:''}<div class="downloads"><a href="celestina_ibarra_2gen_el_cortijo.csv">Descargar CSV</a><a href="celestina_ibarra_2gen_el_cortijo.ged">Descargar GEDCOM</a></div>`;if(rerender)renderList();}
-function init(){document.getElementById('total').textContent=PERSONAS.length;const rels=[...new Set(PERSONAS.map(p=>p.relacion).filter(Boolean))].sort();$('#rel').innerHTML='<option value="">Todas las relaciones</option>'+rels.map(r=>`<option>${esc(r)}</option>`).join('');$('#q').addEventListener('input',()=>{selected=null;renderList()});$('#rel').addEventListener('change',()=>{selected=null;renderList()});renderList();}
-init();
+let people = JSON.parse(localStorage.getItem('cortijo_people') || 'null') || INITIAL_PEOPLE;
+let families = JSON.parse(localStorage.getItem('cortijo_families') || 'null') || INITIAL_FAMILIES;
+const byId = () => Object.fromEntries(people.map(p=>[p.id,p]));
+let centralId = (people.find(p=>normalize(p.name).includes('celestina ibarra'))||people[0]).id;
+function normalize(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+function years(p){let b=(p.birth||'').replace(/^.*?(\d{4}).*$/,'$1'); let d=(p.death||'').replace(/^.*?(\d{4}).*$/,'$1'); return (b||'?')+'–'+(d||'?');}
+function save(){localStorage.setItem('cortijo_people',JSON.stringify(people));localStorage.setItem('cortijo_families',JSON.stringify(families));}
+function parentsOf(id){const fam=families.find(f=>f.children.includes(id)); if(!fam)return []; return [fam.husb,fam.wife].filter(Boolean);}
+function spousesOf(id){return families.filter(f=>f.husb===id||f.wife===id).map(f=>f.husb===id?f.wife:f.husb).filter(Boolean);}
+function childrenOf(id){return families.filter(f=>f.husb===id||f.wife===id).flatMap(f=>f.children||[]);}
+function ancestors(id, depth=2){let res=[]; let level=[id]; for(let d=0;d<depth;d++){level=[...new Set(level.flatMap(parentsOf))]; res.unshift(level); } return res;}
+function descendants(id, depth=2){let res=[]; let level=[id]; for(let d=0;d<depth;d++){level=[...new Set(level.flatMap(childrenOf))]; res.push(level);} return res;}
+function node(id, center=false){const p=byId()[id]; if(!p)return ''; const cls='node '+(p.sex==='F'?'f ':'')+(center?'center':''); return `<div class="${cls}" onclick="setCentral('${id}')"><div>${p.sex==='F'?'👩':'👨'}</div><b>${p.name||id}</b><div class="years">${years(p)}</div></div>`;}
+function render(){const map=byId(), c=map[centralId]; document.getElementById('centralCard').innerHTML=`<div class="personName">${c.name}</div><p><b>Nac.</b><br>${c.birth||''} ${c.birthPlace||''}</p><p><b>Def.</b><br>${c.death||''} ${c.deathPlace||''}</p><p><b>Profesión:</b> ${c.occupation||'—'}</p>`;
+ let html=''; ancestors(centralId).forEach((gen,i)=>{ if(gen.length) html+=`<div class="generation">${gen.map(id=>node(id)).join('')}</div><div class="connector">│</div>`; });
+ html+=`<div class="spouseLine">${spousesOf(centralId).map(id=>node(id)).join('')}${node(centralId,true)}</div>`;
+ descendants(centralId).forEach(gen=>{ if(gen.length) html+=`<div class="connector">│</div><div class="generation">${gen.map(id=>node(id)).join('')}</div>`; });
+ document.getElementById('treeCanvas').innerHTML=html || 'Sin datos.';
+ const ids=[...new Set([centralId,...ancestors(centralId).flat(),...spousesOf(centralId),...descendants(centralId).flat()])];
+ document.getElementById('listCanvas').innerHTML='<ul>'+ids.map(id=>`<li><button class="secondary" onclick="setCentral('${id}')">${map[id]?.name||id}</button> ${years(map[id]||{})}</li>`).join('')+'</ul>';
+ renderTable(); suggestions();}
+function setCentral(id){centralId=id; render(); location.hash='arbol';}
+function suggestions(){const q=normalize(document.getElementById('search').value); let arr=people.filter(p=>!q||normalize(p.name).includes(q)).slice(0,12); document.getElementById('suggestions').innerHTML=arr.map(p=>`<span class="chip" onclick="setCentral('${p.id}')">${p.name}</span>`).join('');}
+function renderTable(){const tbody=document.querySelector('#peopleTable tbody'); tbody.innerHTML=people.slice().sort((a,b)=>(a.name||'').localeCompare(b.name||'')).map(p=>`<tr><td>${p.name}</td><td>${p.birth||''}<br><small>${p.birthPlace||''}</small></td><td>${p.death||''}</td><td>${p.occupation||''}</td><td><button class="secondary" onclick="setCentral('${p.id}')">Ver árbol</button></td></tr>`).join('');}
+document.getElementById('search').addEventListener('input', suggestions); document.getElementById('searchBtn').onclick=()=>{let q=normalize(document.getElementById('search').value); let p=people.find(x=>normalize(x.name).includes(q)); if(p)setCentral(p.id);};
+document.getElementById('treeView').onclick=()=>{treeCanvas.classList.remove('hidden');listCanvas.classList.add('hidden');treeView.classList.add('active');listView.classList.remove('active')};
+document.getElementById('listView').onclick=()=>{treeCanvas.classList.add('hidden');listCanvas.classList.remove('hidden');treeView.classList.remove('active');listView.classList.add('active')};
+document.getElementById('fitBtn').onclick=()=>document.getElementById('treeCanvas').scrollTo({left:0,top:0,behavior:'smooth'});
+document.getElementById('personForm').onsubmit=e=>{e.preventDefault(); const fd=new FormData(e.target); const id='M'+Date.now(); people.push({id,name:fd.get('name'),sex:fd.get('sex'),birth:fd.get('birth'),birthPlace:fd.get('birthPlace'),death:fd.get('death'),deathPlace:'',occupation:fd.get('occupation'),famc:[],fams:[]}); save(); e.target.reset(); setCentral(id);};
+document.getElementById('exportJson').onclick=()=>{const blob=new Blob([JSON.stringify({people,families},null,2)],{type:'application/json'}); const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='censo-el-cortijo-datos.json'; a.click();};
+document.getElementById('importJson').onchange=e=>{const file=e.target.files[0]; if(!file)return; const r=new FileReader(); r.onload=()=>{const data=JSON.parse(r.result); people=data.people||people; families=data.families||families; save(); render();}; r.readAsText(file);};
+document.getElementById('resetData').onclick=()=>{if(confirm('¿Restaurar datos iniciales?')){localStorage.removeItem('cortijo_people');localStorage.removeItem('cortijo_families');location.reload();}};
+render();

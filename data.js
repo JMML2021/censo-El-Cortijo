@@ -1,1592 +1,1186 @@
-const PERSONAS = [
+const INITIAL_PEOPLE = [
   {
     "id": "@I3@",
-    "nombre": "Jose Maria Matas Vilanova",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "3 JUN 1922",
-    "lugar_nacimiento": "Prats de Lluçanes (Girona)",
-    "defuncion": "29 AUG 2008",
-    "lugar_defuncion": "",
-    "profesion": "Mecánico Industrial",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I32@",
-        "nombre": "Maria Jesús Larrucea Valdemoros"
-      }
+    "name": "Jose Maria Matas Vilanova",
+    "sex": "M",
+    "birth": "3 JUN 1922",
+    "birthPlace": "Prats de Lluçanes (Girona)",
+    "death": "29 AUG 2008",
+    "deathPlace": "",
+    "occupation": "COmpra Pje Dr.Torent a Juan Enrique Becker",
+    "famc": [],
+    "fams": [
+      "@F2@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I32@",
-    "nombre": "Maria Jesús Larrucea Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "25 DEC 1925",
-    "lugar_nacimiento": "Bilbao",
-    "defuncion": "29 DEC 2023",
-    "lugar_defuncion": "Barcelona, España",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I33@",
-        "nombre": "Jenaro Larrucea Yarritu"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      }
+    "name": "Maria Jesús Larrucea Valdemoros",
+    "sex": "F",
+    "birth": "25 DEC 1925",
+    "birthPlace": "Bilbao",
+    "death": "29 DEC 2023",
+    "deathPlace": "Barcelona, España",
+    "occupation": "",
+    "famc": [
+      "@F10@"
     ],
-    "conyuges": [
-      {
-        "id": "@I3@",
-        "nombre": "Jose Maria Matas Vilanova"
-      }
+    "fams": [
+      "@F2@"
     ],
-    "hijos": [],
-    "notas": "Bautizada en San Nicolás"
+    "notes": "Bautizada en San Nicolás",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I33@",
-    "nombre": "Jenaro Larrucea Yarritu",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "25 JUL 1897",
-    "lugar_nacimiento": "Bilbao -Santa Maria de Begoña",
-    "defuncion": "25 FEB 1986",
-    "lugar_defuncion": "Barcelona, España",
-    "profesion": "fabricacion motor LARRAN nº 6",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      }
+    "name": "Jenaro Larrucea Yarritu",
+    "sex": "M",
+    "birth": "25 JUL 1897",
+    "birthPlace": "Bilbao -Santa Maria de Begoña",
+    "death": "25 FEB 1986",
+    "deathPlace": "Barcelona, España",
+    "occupation": "fabricacion motor LARRAN nº 6",
+    "famc": [],
+    "fams": [
+      "@F10@"
     ],
-    "hijos": [
-      {
-        "id": "@I105@",
-        "nombre": "Maria Teresa Larrucea"
-      },
-      {
-        "id": "@I32@",
-        "nombre": "Maria Jesús Larrucea Valdemoros"
-      },
-      {
-        "id": "@I1177@",
-        "nombre": "Maria del Carmen Larrucea Valdemoros"
-      },
-      {
-        "id": "@I112@",
-        "nombre": "Carmen Larrucea Valdemoros"
-      },
-      {
-        "id": "@I114@",
-        "nombre": "Tomasita Larrucea"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I34@",
-    "nombre": "Juana Valdemoros Ibarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "6 MAY 1897",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "16 FEB 1972",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Juana Valdemoros Ibarra",
+    "sex": "F",
+    "birth": "6 MAY 1897",
+    "birthPlace": "Logroño, España",
+    "death": "16 FEB 1972",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I33@",
-        "nombre": "Jenaro Larrucea Yarritu"
-      }
+    "fams": [
+      "@F10@"
     ],
-    "hijos": [
-      {
-        "id": "@I105@",
-        "nombre": "Maria Teresa Larrucea"
-      },
-      {
-        "id": "@I32@",
-        "nombre": "Maria Jesús Larrucea Valdemoros"
-      },
-      {
-        "id": "@I1177@",
-        "nombre": "Maria del Carmen Larrucea Valdemoros"
-      },
-      {
-        "id": "@I112@",
-        "nombre": "Carmen Larrucea Valdemoros"
-      },
-      {
-        "id": "@I114@",
-        "nombre": "Tomasita Larrucea"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I40@",
-    "nombre": "Celestina Ibarra Gonzalez",
-    "relacion": "Raíz: Celestina Ibarra González",
-    "nacimiento": "7 APR 1864",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "15 JAN 1951",
-    "lugar_defuncion": "Logroño, España",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I497@",
-        "nombre": "Gregorio Ibarra Treviño"
-      },
-      {
-        "id": "@I111@",
-        "nombre": "Evarista Gonzalez Villar"
-      }
+    "name": "Celestina Ibarra Gonzalez",
+    "sex": "F",
+    "birth": "7 APR 1864",
+    "birthPlace": "Logroño, España",
+    "death": "15 JAN 1951",
+    "deathPlace": "Logroño, España",
+    "occupation": "",
+    "famc": [
+      "@F33@"
     ],
-    "conyuges": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      }
+    "fams": [
+      "@F13@"
     ],
-    "hijos": [
-      {
-        "id": "@I156@",
-        "nombre": "Gonzalo Valdemoros Ibarra"
-      },
-      {
-        "id": "@I159@",
-        "nombre": "Librado Valdemoros Ibarra"
-      },
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I160@",
-        "nombre": "Eustasio Valdemoros Ibarra"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      },
-      {
-        "id": "@I158@",
-        "nombre": "Celestino Valdemoros Ibarra"
-      },
-      {
-        "id": "@I157@",
-        "nombre": "Anastasio Valdemoros Ibarra"
-      }
-    ],
-    "notas": "La llamaban la buena moza. Se casó dos veces. La primera con uno de Fuenmayor o de la Puebla. Y murió muy joven y el primer hijo de este matrimonio también murió.....Hay que investigar algo más. (2011.02 fuente abuela)< /p>  En el testamento de la abuela Juanita indica que murió en Logroño en 1951.  No se llevaba bien con su padrastro, y el novio se la lleva en caballo a casarse"
+    "notes": "La llamaban la buena moza.",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I43@",
-    "nombre": "Cruz Valdemoros Saenz",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1862",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "5 DEC 1906",
-    "lugar_defuncion": "El Cortijo",
-    "profesion": "Jornalero",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Cruz Valdemoros Saenz",
+    "sex": "M",
+    "birth": "1862",
+    "birthPlace": "Logroño, España",
+    "death": "5 DEC 1906",
+    "deathPlace": "El Cortijo",
+    "occupation": "Jornalero",
+    "famc": [],
+    "fams": [
+      "@F13@"
     ],
-    "hijos": [
-      {
-        "id": "@I156@",
-        "nombre": "Gonzalo Valdemoros Ibarra"
-      },
-      {
-        "id": "@I159@",
-        "nombre": "Librado Valdemoros Ibarra"
-      },
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I160@",
-        "nombre": "Eustasio Valdemoros Ibarra"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      },
-      {
-        "id": "@I158@",
-        "nombre": "Celestino Valdemoros Ibarra"
-      },
-      {
-        "id": "@I157@",
-        "nombre": "Anastasio Valdemoros Ibarra"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I105@",
-    "nombre": "Maria Teresa Larrucea",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "6 MAR 1924",
-    "lugar_nacimiento": "Bilbao",
-    "defuncion": "27 JUN 2007",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I33@",
-        "nombre": "Jenaro Larrucea Yarritu"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      }
+    "name": "Maria Teresa Larrucea",
+    "sex": "F",
+    "birth": "6 MAR 1924",
+    "birthPlace": "Bilbao",
+    "death": "27 JUN 2007",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F10@"
     ],
-    "conyuges": [
-      {
-        "id": "@I106@",
-        "nombre": "Pelegrin Rita Taltavull"
-      }
+    "fams": [
+      "@F31@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I106@",
-    "nombre": "Pelegrin Rita Taltavull",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1916",
-    "lugar_nacimiento": "Mahón, Menorca",
-    "defuncion": "21 NOV 2005",
-    "lugar_defuncion": "Mahon",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I105@",
-        "nombre": "Maria Teresa Larrucea"
-      }
+    "name": "Pelegrin Rita Taltavull",
+    "sex": "M",
+    "birth": "1916",
+    "birthPlace": "Mahón, Menorca",
+    "death": "21 NOV 2005",
+    "deathPlace": "Mahon",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F31@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I111@",
-    "nombre": "Evarista Gonzalez Villar",
-    "relacion": "Ancestro generación 1",
-    "nacimiento": "28 OCT 1841",
-    "lugar_nacimiento": "El Cortijo",
-    "defuncion": "11 NOV 1906",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I498@",
-        "nombre": "Pedro Gonzalez Fernandez Nalda"
-      },
-      {
-        "id": "@I499@",
-        "nombre": "Petra Villar Martinez"
-      }
+    "name": "Evarista Gonzalez Villar",
+    "sex": "F",
+    "birth": "28 OCT 1841",
+    "birthPlace": "El Cortijo",
+    "death": "11 NOV 1906",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F176@"
     ],
-    "conyuges": [
-      {
-        "id": "@I497@",
-        "nombre": "Gregorio Ibarra Treviño"
-      },
-      {
-        "id": "@I506@",
-        "nombre": "Andres Pardal Perez"
-      }
+    "fams": [
+      "@F33@",
+      "@F180@"
     ],
-    "hijos": [
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I112@",
-    "nombre": "Carmen Larrucea Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "8 SEP 1928",
-    "lugar_nacimiento": "",
-    "defuncion": "8 SEP 2020",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I33@",
-        "nombre": "Jenaro Larrucea Yarritu"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      }
+    "name": "Carmen Larrucea Valdemoros",
+    "sex": "F",
+    "birth": "8 SEP 1928",
+    "birthPlace": "",
+    "death": "8 SEP 2020",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F10@"
     ],
-    "conyuges": [
-      {
-        "id": "@I113@",
-        "nombre": "Jaime Rodrigo Pons"
-      }
+    "fams": [
+      "@F34@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I113@",
-    "nombre": "Jaime Rodrigo Pons",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1924",
-    "lugar_nacimiento": "",
-    "defuncion": "13 FEB 1964",
-    "lugar_defuncion": "Barcelona, España",
-    "profesion": "Jefe Maquinas Marina",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I112@",
-        "nombre": "Carmen Larrucea Valdemoros"
-      }
+    "name": "Jaime Rodrigo Pons",
+    "sex": "M",
+    "birth": "1924",
+    "birthPlace": "",
+    "death": "13 FEB 1964",
+    "deathPlace": "Barcelona, España",
+    "occupation": "Jefe Maquinas Marina",
+    "famc": [],
+    "fams": [
+      "@F34@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I114@",
-    "nombre": "Tomasita Larrucea",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "28 AUG 1933",
-    "lugar_nacimiento": "",
-    "defuncion": "28 APR 1964",
-    "lugar_defuncion": "Madrid",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I33@",
-        "nombre": "Jenaro Larrucea Yarritu"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      }
+    "name": "Tomasita Larrucea",
+    "sex": "F",
+    "birth": "28 AUG 1933",
+    "birthPlace": "",
+    "death": "28 APR 1964",
+    "deathPlace": "Madrid",
+    "occupation": "",
+    "famc": [
+      "@F10@"
     ],
-    "conyuges": [
-      {
-        "id": "@I115@",
-        "nombre": "Fernado Aguilar Aznar"
-      }
+    "fams": [
+      "@F35@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I115@",
-    "nombre": "Fernado Aguilar Aznar",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "8 FEB 2014",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I114@",
-        "nombre": "Tomasita Larrucea"
-      }
+    "name": "Fernado Aguilar Aznar",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "8 FEB 2014",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F35@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I156@",
-    "nombre": "Gonzalo Valdemoros Ibarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "1888",
-    "lugar_nacimiento": "",
-    "defuncion": "2 AUG 1959",
-    "lugar_defuncion": "El Cortijo, Logroño, España",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Gonzalo Valdemoros Ibarra",
+    "sex": "M",
+    "birth": "1888",
+    "birthPlace": "",
+    "death": "2 AUG 1959",
+    "deathPlace": "El Cortijo, Logroño, España",
+    "occupation": "",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I162@",
-        "nombre": "Rosario Treviño Valdemoros"
-      }
+    "fams": [
+      "@F52@"
     ],
-    "hijos": [
-      {
-        "id": "@I349@",
-        "nombre": "Antonio Valdemoros Treviño"
-      },
-      {
-        "id": "@I352@",
-        "nombre": "Cruz Valdemoros Treviño"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I157@",
-    "nombre": "Anastasio Valdemoros Ibarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "17 AUG 1904",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "15 JUN 1978",
-    "lugar_defuncion": "Bilbao",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Anastasio Valdemoros Ibarra",
+    "sex": "M",
+    "birth": "17 AUG 1904",
+    "birthPlace": "Logroño, España",
+    "death": "15 JUN 1978",
+    "deathPlace": "Bilbao",
+    "occupation": "",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I196@",
-        "nombre": "Pilar"
-      }
+    "fams": [
+      "@F66@"
     ],
-    "hijos": [
-      {
-        "id": "@I197@",
-        "nombre": "Jose Luis Valdemoros"
-      },
-      {
-        "id": "@I198@",
-        "nombre": "Encarnación Valdemoros"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I158@",
-    "nombre": "Celestino Valdemoros Ibarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "1901",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "14 SEP 1976",
-    "lugar_defuncion": "Logroño, España",
-    "profesion": "labrador",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Celestino Valdemoros Ibarra",
+    "sex": "M",
+    "birth": "1901",
+    "birthPlace": "Logroño, España",
+    "death": "14 SEP 1976",
+    "deathPlace": "Logroño, España",
+    "occupation": "labrador",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I161@",
-        "nombre": "Basilia Treviño Valdemoros"
-      }
+    "fams": [
+      "@F51@"
     ],
-    "hijos": [
-      {
-        "id": "@I342@",
-        "nombre": "Angel Valdemoros Treviño"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I159@",
-    "nombre": "Librado Valdemoros Ibarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "18 AUG 1891",
-    "lugar_nacimiento": "El Cortijo, Logroño, España",
-    "defuncion": "9 SEP 1936",
-    "lugar_defuncion": "Logroño, España",
-    "profesion": "Hacendado y ganadero.",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Librado Valdemoros Ibarra",
+    "sex": "M",
+    "birth": "18 AUG 1891",
+    "birthPlace": "El Cortijo, Logroño, España",
+    "death": "9 SEP 1936",
+    "deathPlace": "Logroño, España",
+    "occupation": "",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I361@",
-        "nombre": "Benigna Saenz  Martinez"
-      }
+    "fams": [
+      "@F117@"
     ],
-    "hijos": [
-      {
-        "id": "@I363@",
-        "nombre": "Invencion Gloria Valdemoros Saenz"
-      },
-      {
-        "id": "@I365@",
-        "nombre": "Julio Valdemoros"
-      },
-      {
-        "id": "@I362@",
-        "nombre": "Librado Valdemoros Saenz"
-      }
-    ],
-    "notas": "Fue a EEUU  /New York) 18/4/1912"
+    "notes": "Fue a EEUU  /New York) 18/4/1912",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I160@",
-    "nombre": "Eustasio Valdemoros Ibarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "1896",
-    "lugar_nacimiento": "",
-    "defuncion": "31 DEC 1972",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Eustasio Valdemoros Ibarra",
+    "sex": "M",
+    "birth": "1896",
+    "birthPlace": "",
+    "death": "31 DEC 1972",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I165@",
-        "nombre": "Leonisa"
-      }
+    "fams": [
+      "@F54@"
     ],
-    "hijos": [
-      {
-        "id": "@I1190@",
-        "nombre": "Maximo Valdemoros Diaz"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I161@",
-    "nombre": "Basilia Treviño Valdemoros",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1902",
-    "lugar_nacimiento": "",
-    "defuncion": "16 MAR 1980",
-    "lugar_defuncion": "El Cortijo, Logroño, España",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I158@",
-        "nombre": "Celestino Valdemoros Ibarra"
-      }
+    "name": "Basilia Treviño Valdemoros",
+    "sex": "F",
+    "birth": "1902",
+    "birthPlace": "",
+    "death": "16 MAR 1980",
+    "deathPlace": "El Cortijo, Logroño, España",
+    "occupation": "",
+    "famc": [
+      "@F53@"
     ],
-    "hijos": [
-      {
-        "id": "@I342@",
-        "nombre": "Angel Valdemoros Treviño"
-      }
+    "fams": [
+      "@F51@"
     ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I162@",
-    "nombre": "Rosario Treviño Valdemoros",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1890",
-    "lugar_nacimiento": "",
-    "defuncion": "28 MAR 1971",
-    "lugar_defuncion": "El Cortijo",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I156@",
-        "nombre": "Gonzalo Valdemoros Ibarra"
-      }
+    "name": "Rosario Treviño Valdemoros",
+    "sex": "F",
+    "birth": "1890",
+    "birthPlace": "",
+    "death": "28 MAR 1971",
+    "deathPlace": "El Cortijo",
+    "occupation": "",
+    "famc": [
+      "@F53@"
     ],
-    "hijos": [
-      {
-        "id": "@I349@",
-        "nombre": "Antonio Valdemoros Treviño"
-      },
-      {
-        "id": "@I352@",
-        "nombre": "Cruz Valdemoros Treviño"
-      }
+    "fams": [
+      "@F52@"
     ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I164@",
-    "nombre": "Enrique Valdemoros Ybarra",
-    "relacion": "Descendiente generación 1",
-    "nacimiento": "1894",
-    "lugar_nacimiento": "El Cortijo, Logroño, España",
-    "defuncion": "6 MAR 1956",
-    "lugar_defuncion": "el Cortijo, Logroño, España",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I43@",
-        "nombre": "Cruz Valdemoros Saenz"
-      },
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
+    "name": "Enrique Valdemoros Ybarra",
+    "sex": "M",
+    "birth": "1894",
+    "birthPlace": "El Cortijo, Logroño, España",
+    "death": "6 MAR 1956",
+    "deathPlace": "el Cortijo, Logroño, España",
+    "occupation": "",
+    "famc": [
+      "@F13@"
     ],
-    "conyuges": [
-      {
-        "id": "@I407@",
-        "nombre": "Vicenta Mendezona Cendagortagalarza"
-      }
+    "fams": [
+      "@F142@"
     ],
-    "hijos": [
-      {
-        "id": "@I408@",
-        "nombre": "Purificación Valdemoros Mendezona"
-      },
-      {
-        "id": "@I409@",
-        "nombre": "Enrique Valdemoros Mendoza"
-      },
-      {
-        "id": "@I410@",
-        "nombre": "Lidia Valdemoros"
-      },
-      {
-        "id": "@I411@",
-        "nombre": "José Valdemoros"
-      },
-      {
-        "id": "@I412@",
-        "nombre": "Maria Asunción Valdemoros"
-      }
-    ],
-    "notas": "Fue socio del abuelo en el taller \"Larucea\" de Logroño de coches. Al ir Genaro a la guerra le regalo el taller."
+    "notes": "Fue socio del abuelo en el taller \"Larucea\" de Logroño de coches. Al ir Genaro a la guerra le regalo el taller.",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I165@",
-    "nombre": "Leonisa",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "AFT 1972",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I160@",
-        "nombre": "Eustasio Valdemoros Ibarra"
-      }
+    "name": "Leonisa",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "AFT 1972",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F54@"
     ],
-    "hijos": [
-      {
-        "id": "@I1190@",
-        "nombre": "Maximo Valdemoros Diaz"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I196@",
-    "nombre": "Pilar",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I157@",
-        "nombre": "Anastasio Valdemoros Ibarra"
-      }
+    "name": "Pilar",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F66@"
     ],
-    "hijos": [
-      {
-        "id": "@I197@",
-        "nombre": "Jose Luis Valdemoros"
-      },
-      {
-        "id": "@I198@",
-        "nombre": "Encarnación Valdemoros"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I197@",
-    "nombre": "Jose Luis Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I157@",
-        "nombre": "Anastasio Valdemoros Ibarra"
-      },
-      {
-        "id": "@I196@",
-        "nombre": "Pilar"
-      }
+    "name": "Jose Luis Valdemoros",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F66@"
     ],
-    "conyuges": [],
-    "hijos": [],
-    "notas": ""
+    "fams": [],
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I198@",
-    "nombre": "Encarnación Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I157@",
-        "nombre": "Anastasio Valdemoros Ibarra"
-      },
-      {
-        "id": "@I196@",
-        "nombre": "Pilar"
-      }
+    "name": "Encarnación Valdemoros",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F66@"
     ],
-    "conyuges": [],
-    "hijos": [],
-    "notas": ""
+    "fams": [],
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I342@",
-    "nombre": "Angel Valdemoros Treviño",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I158@",
-        "nombre": "Celestino Valdemoros Ibarra"
-      },
-      {
-        "id": "@I161@",
-        "nombre": "Basilia Treviño Valdemoros"
-      }
+    "name": "Angel Valdemoros Treviño",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F51@"
     ],
-    "conyuges": [
-      {
-        "id": "@I343@",
-        "nombre": "Lidia Grijalba Saenz"
-      }
+    "fams": [
+      "@F109@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I343@",
-    "nombre": "Lidia Grijalba Saenz",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "4 OCT 1934",
-    "lugar_nacimiento": "",
-    "defuncion": "10 MAY 2022",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I342@",
-        "nombre": "Angel Valdemoros Treviño"
-      }
+    "name": "Lidia Grijalba Saenz",
+    "sex": "F",
+    "birth": "4 OCT 1934",
+    "birthPlace": "",
+    "death": "10 MAY 2022",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F109@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I349@",
-    "nombre": "Antonio Valdemoros Treviño",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I156@",
-        "nombre": "Gonzalo Valdemoros Ibarra"
-      },
-      {
-        "id": "@I162@",
-        "nombre": "Rosario Treviño Valdemoros"
-      }
+    "name": "Antonio Valdemoros Treviño",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F52@"
     ],
-    "conyuges": [
-      {
-        "id": "@I350@",
-        "nombre": "Francisca Treviño LLach"
-      }
+    "fams": [
+      "@F112@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I350@",
-    "nombre": "Francisca Treviño LLach",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1922",
-    "lugar_nacimiento": "El Cortijo",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I349@",
-        "nombre": "Antonio Valdemoros Treviño"
-      }
+    "name": "Francisca Treviño LLach",
+    "sex": "F",
+    "birth": "1922",
+    "birthPlace": "El Cortijo",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F112@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I352@",
-    "nombre": "Cruz Valdemoros Treviño",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "5 MAY 1918",
-    "lugar_nacimiento": "EL Cortijo",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I156@",
-        "nombre": "Gonzalo Valdemoros Ibarra"
-      },
-      {
-        "id": "@I162@",
-        "nombre": "Rosario Treviño Valdemoros"
-      }
+    "name": "Cruz Valdemoros Treviño",
+    "sex": "M",
+    "birth": "5 MAY 1918",
+    "birthPlace": "EL Cortijo",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F52@"
     ],
-    "conyuges": [
-      {
-        "id": "@I353@",
-        "nombre": "Carmen Grijalba del Valle"
-      }
+    "fams": [
+      "@F113@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I353@",
-    "nombre": "Carmen Grijalba del Valle",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I352@",
-        "nombre": "Cruz Valdemoros Treviño"
-      }
+    "name": "Carmen Grijalba del Valle",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F113@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I361@",
-    "nombre": "Benigna Saenz  Martinez",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I159@",
-        "nombre": "Librado Valdemoros Ibarra"
-      }
+    "name": "Benigna Saenz  Martinez",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F117@"
     ],
-    "hijos": [
-      {
-        "id": "@I363@",
-        "nombre": "Invencion Gloria Valdemoros Saenz"
-      },
-      {
-        "id": "@I365@",
-        "nombre": "Julio Valdemoros"
-      },
-      {
-        "id": "@I362@",
-        "nombre": "Librado Valdemoros Saenz"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I362@",
-    "nombre": "Librado Valdemoros Saenz",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I159@",
-        "nombre": "Librado Valdemoros Ibarra"
-      },
-      {
-        "id": "@I361@",
-        "nombre": "Benigna Saenz  Martinez"
-      }
+    "name": "Librado Valdemoros Saenz",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F117@"
     ],
-    "conyuges": [
-      {
-        "id": "@I376@",
-        "nombre": "Begoña Treviño"
-      }
+    "fams": [
+      "@F126@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I363@",
-    "nombre": "Invencion Gloria Valdemoros Saenz",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "3 AUG 1920",
-    "lugar_nacimiento": "logroño, España",
-    "defuncion": "28 APR 2014",
-    "lugar_defuncion": "Logroño",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I159@",
-        "nombre": "Librado Valdemoros Ibarra"
-      },
-      {
-        "id": "@I361@",
-        "nombre": "Benigna Saenz  Martinez"
-      }
+    "name": "Invencion Gloria Valdemoros Saenz",
+    "sex": "F",
+    "birth": "3 AUG 1920",
+    "birthPlace": "logroño, España",
+    "death": "28 APR 2014",
+    "deathPlace": "Logroño",
+    "occupation": "",
+    "famc": [
+      "@F117@"
     ],
-    "conyuges": [
-      {
-        "id": "@I364@",
-        "nombre": "Pedro Saenz Velez"
-      }
+    "fams": [
+      "@F118@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I364@",
-    "nombre": "Pedro Saenz Velez",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "17 SEP 1921",
-    "lugar_nacimiento": "",
-    "defuncion": "6 SEP 2000",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I363@",
-        "nombre": "Invencion Gloria Valdemoros Saenz"
-      }
+    "name": "Pedro Saenz Velez",
+    "sex": "M",
+    "birth": "17 SEP 1921",
+    "birthPlace": "",
+    "death": "6 SEP 2000",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F118@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I365@",
-    "nombre": "Julio Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "1923",
-    "lugar_nacimiento": "el Cortijo",
-    "defuncion": "18 OCT 1927",
-    "lugar_defuncion": "El Cortijo",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I159@",
-        "nombre": "Librado Valdemoros Ibarra"
-      },
-      {
-        "id": "@I361@",
-        "nombre": "Benigna Saenz  Martinez"
-      }
+    "name": "Julio Valdemoros",
+    "sex": "M",
+    "birth": "1923",
+    "birthPlace": "el Cortijo",
+    "death": "18 OCT 1927",
+    "deathPlace": "El Cortijo",
+    "occupation": "",
+    "famc": [
+      "@F117@"
     ],
-    "conyuges": [],
-    "hijos": [],
-    "notas": ""
+    "fams": [],
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I376@",
-    "nombre": "Begoña Treviño",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I362@",
-        "nombre": "Librado Valdemoros Saenz"
-      }
+    "name": "Begoña Treviño",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F126@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I407@",
-    "nombre": "Vicenta Mendezona Cendagortagalarza",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1908",
-    "lugar_nacimiento": "",
-    "defuncion": "1 APR 2009",
-    "lugar_defuncion": "Logroño",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      }
+    "name": "Vicenta Mendezona Cendagortagalarza",
+    "sex": "F",
+    "birth": "1908",
+    "birthPlace": "",
+    "death": "1 APR 2009",
+    "deathPlace": "Logroño",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F142@"
     ],
-    "hijos": [
-      {
-        "id": "@I408@",
-        "nombre": "Purificación Valdemoros Mendezona"
-      },
-      {
-        "id": "@I409@",
-        "nombre": "Enrique Valdemoros Mendoza"
-      },
-      {
-        "id": "@I410@",
-        "nombre": "Lidia Valdemoros"
-      },
-      {
-        "id": "@I411@",
-        "nombre": "José Valdemoros"
-      },
-      {
-        "id": "@I412@",
-        "nombre": "Maria Asunción Valdemoros"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I408@",
-    "nombre": "Purificación Valdemoros Mendezona",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I407@",
-        "nombre": "Vicenta Mendezona Cendagortagalarza"
-      }
+    "name": "Purificación Valdemoros Mendezona",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F142@"
     ],
-    "conyuges": [],
-    "hijos": [],
-    "notas": ""
+    "fams": [],
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I409@",
-    "nombre": "Enrique Valdemoros Mendoza",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I407@",
-        "nombre": "Vicenta Mendezona Cendagortagalarza"
-      }
+    "name": "Enrique Valdemoros Mendoza",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F142@"
     ],
-    "conyuges": [
-      {
-        "id": "@I841@",
-        "nombre": "Alicia Ruiz Alonso"
-      }
+    "fams": [
+      "@F276@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I410@",
-    "nombre": "Lidia Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I407@",
-        "nombre": "Vicenta Mendezona Cendagortagalarza"
-      }
+    "name": "Lidia Valdemoros",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F142@"
     ],
-    "conyuges": [
-      {
-        "id": "@I842@",
-        "nombre": "Andrés Elguezabal Uriarte"
-      }
+    "fams": [
+      "@F277@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I411@",
-    "nombre": "José Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I407@",
-        "nombre": "Vicenta Mendezona Cendagortagalarza"
-      }
+    "name": "José Valdemoros",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F142@"
     ],
-    "conyuges": [],
-    "hijos": [],
-    "notas": ""
+    "fams": [],
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I412@",
-    "nombre": "Maria Asunción Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I164@",
-        "nombre": "Enrique Valdemoros Ybarra"
-      },
-      {
-        "id": "@I407@",
-        "nombre": "Vicenta Mendezona Cendagortagalarza"
-      }
+    "name": "Maria Asunción Valdemoros",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F142@"
     ],
-    "conyuges": [
-      {
-        "id": "@I863@",
-        "nombre": "Antonio Vidasolo"
-      }
+    "fams": [
+      "@F284@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I497@",
-    "nombre": "Gregorio Ibarra Treviño",
-    "relacion": "Ancestro generación 1",
-    "nacimiento": "1836",
-    "lugar_nacimiento": "",
-    "defuncion": "13 AUG 1867",
-    "lugar_defuncion": "El Cortijo",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I1446@",
-        "nombre": "Marcelo Ibarra"
-      },
-      {
-        "id": "@I1447@",
-        "nombre": "Heramenga o Hermenegilda Treviño Torres"
-      }
+    "name": "Gregorio Ibarra Treviño",
+    "sex": "M",
+    "birth": "1836",
+    "birthPlace": "",
+    "death": "13 AUG 1867",
+    "deathPlace": "El Cortijo",
+    "occupation": "",
+    "famc": [
+      "@F481@"
     ],
-    "conyuges": [
-      {
-        "id": "@I111@",
-        "nombre": "Evarista Gonzalez Villar"
-      }
+    "fams": [
+      "@F33@"
     ],
-    "hijos": [
-      {
-        "id": "@I40@",
-        "nombre": "Celestina Ibarra Gonzalez"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I498@",
-    "nombre": "Pedro Gonzalez Fernandez Nalda",
-    "relacion": "Ancestro generación 2",
-    "nacimiento": "1799",
-    "lugar_nacimiento": "Aleson (la Rioja)",
-    "defuncion": "2 JUL 1879",
-    "lugar_defuncion": "Logroño, España",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I499@",
-        "nombre": "Petra Villar Martinez"
-      }
+    "name": "Pedro Gonzalez Fernandez Nalda",
+    "sex": "M",
+    "birth": "1799",
+    "birthPlace": "Aleson (la Rioja)",
+    "death": "2 JUL 1879",
+    "deathPlace": "Logroño, España",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F176@"
     ],
-    "hijos": [
-      {
-        "id": "@I111@",
-        "nombre": "Evarista Gonzalez Villar"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I499@",
-    "nombre": "Petra Villar Martinez",
-    "relacion": "Ancestro generación 2",
-    "nacimiento": "1803",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "AFT 8 JUN 1880",
-    "lugar_defuncion": "",
-    "profesion": "Labradora",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I498@",
-        "nombre": "Pedro Gonzalez Fernandez Nalda"
-      }
+    "name": "Petra Villar Martinez",
+    "sex": "F",
+    "birth": "1803",
+    "birthPlace": "Logroño, España",
+    "death": "AFT 8 JUN 1880",
+    "deathPlace": "",
+    "occupation": "Labradora",
+    "famc": [],
+    "fams": [
+      "@F176@"
     ],
-    "hijos": [
-      {
-        "id": "@I111@",
-        "nombre": "Evarista Gonzalez Villar"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I506@",
-    "nombre": "Andres Pardal Perez",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "1841",
-    "lugar_nacimiento": "Pino de Oro",
-    "defuncion": "16 NOV 1897",
-    "lugar_defuncion": "El Cortijo",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I111@",
-        "nombre": "Evarista Gonzalez Villar"
-      }
+    "name": "Andres Pardal Perez",
+    "sex": "M",
+    "birth": "1841",
+    "birthPlace": "Pino de Oro",
+    "death": "16 NOV 1897",
+    "deathPlace": "El Cortijo",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F180@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I841@",
-    "nombre": "Alicia Ruiz Alonso",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I409@",
-        "nombre": "Enrique Valdemoros Mendoza"
-      }
+    "name": "Alicia Ruiz Alonso",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F276@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I842@",
-    "nombre": "Andrés Elguezabal Uriarte",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "marino",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I410@",
-        "nombre": "Lidia Valdemoros"
-      }
+    "name": "Andrés Elguezabal Uriarte",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "marino",
+    "famc": [],
+    "fams": [
+      "@F277@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I863@",
-    "nombre": "Antonio Vidasolo",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "BEF 2009",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I412@",
-        "nombre": "Maria Asunción Valdemoros"
-      }
+    "name": "Antonio Vidasolo",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "BEF 2009",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F284@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I1177@",
-    "nombre": "Maria del Carmen Larrucea Valdemoros",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "1 MAR 1927",
-    "lugar_nacimiento": "Logroño, España",
-    "defuncion": "24 AUG 1928",
-    "lugar_defuncion": "Logroño, España",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I33@",
-        "nombre": "Jenaro Larrucea Yarritu"
-      },
-      {
-        "id": "@I34@",
-        "nombre": "Juana Valdemoros Ibarra"
-      }
+    "name": "Maria del Carmen Larrucea Valdemoros",
+    "sex": "F",
+    "birth": "1 MAR 1927",
+    "birthPlace": "Logroño, España",
+    "death": "24 AUG 1928",
+    "deathPlace": "Logroño, España",
+    "occupation": "",
+    "famc": [
+      "@F10@"
     ],
-    "conyuges": [],
-    "hijos": [],
-    "notas": ""
+    "fams": [],
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I1190@",
-    "nombre": "Maximo Valdemoros Diaz",
-    "relacion": "Descendiente generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [
-      {
-        "id": "@I160@",
-        "nombre": "Eustasio Valdemoros Ibarra"
-      },
-      {
-        "id": "@I165@",
-        "nombre": "Leonisa"
-      }
+    "name": "Maximo Valdemoros Diaz",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [
+      "@F54@"
     ],
-    "conyuges": [
-      {
-        "id": "@I1191@",
-        "nombre": "Azucena Vicente"
-      }
+    "fams": [
+      "@F400@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I1191@",
-    "nombre": "Azucena Vicente",
-    "relacion": "Cónyuge de persona incluida",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I1190@",
-        "nombre": "Maximo Valdemoros Diaz"
-      }
+    "name": "Azucena Vicente",
+    "sex": "F",
+    "birth": "",
+    "birthPlace": "",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F400@"
     ],
-    "hijos": [],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   },
   {
     "id": "@I1446@",
-    "nombre": "Marcelo Ibarra",
-    "relacion": "Ancestro generación 2",
-    "nacimiento": "",
-    "lugar_nacimiento": "",
-    "defuncion": "BEF 1857",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I1447@",
-        "nombre": "Heramenga o Hermenegilda Treviño Torres"
-      }
+    "name": "Marcelo Ibarra",
+    "sex": "M",
+    "birth": "",
+    "birthPlace": "",
+    "death": "BEF 1857",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F481@"
     ],
-    "hijos": [
-      {
-        "id": "@I497@",
-        "nombre": "Gregorio Ibarra Treviño"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Hombre"
   },
   {
     "id": "@I1447@",
-    "nombre": "Heramenga o Hermenegilda Treviño Torres",
-    "relacion": "Ancestro generación 2",
-    "nacimiento": "1797",
-    "lugar_nacimiento": "El Cortijo",
-    "defuncion": "",
-    "lugar_defuncion": "",
-    "profesion": "",
-    "padres": [],
-    "conyuges": [
-      {
-        "id": "@I1446@",
-        "nombre": "Marcelo Ibarra"
-      }
+    "name": "Heramenga o Hermenegilda Treviño Torres",
+    "sex": "F",
+    "birth": "1797",
+    "birthPlace": "El Cortijo",
+    "death": "",
+    "deathPlace": "",
+    "occupation": "",
+    "famc": [],
+    "fams": [
+      "@F481@"
     ],
-    "hijos": [
-      {
-        "id": "@I497@",
-        "nombre": "Gregorio Ibarra Treviño"
-      }
-    ],
-    "notas": ""
+    "notes": "",
+    "genderLabel": "Mujer"
   }
 ];
-const STATS = {
-  "total": 55,
-  "apellidos": {
-    "Matas Vilanova": 1,
-    "Larrucea Valdemoros": 3,
-    "Larrucea Yarritu": 1,
-    "Valdemoros Ibarra": 6,
-    "Ibarra Gonzalez": 1,
-    "Valdemoros Saenz": 3,
-    "Teresa Larrucea": 1,
-    "Rita Taltavull": 1,
-    "Gonzalez Villar": 1,
-    "Rodrigo Pons": 1,
-    "Tomasita Larrucea": 1,
-    "Aguilar Aznar": 1,
-    "Treviño Valdemoros": 2,
-    "Valdemoros Ybarra": 1,
-    "Leonisa": 1,
-    "Pilar": 1,
-    "Luis Valdemoros": 1,
-    "Encarnación Valdemoros": 1,
-    "Valdemoros Treviño": 3,
-    "Grijalba Saenz": 1,
-    "Treviño LLach": 1,
-    "del Valle": 1,
-    "Saenz Martinez": 1,
-    "Saenz Velez": 1,
-    "Julio Valdemoros": 1,
-    "Begoña Treviño": 1,
-    "Mendezona Cendagortagalarza": 1,
-    "Valdemoros Mendezona": 1,
-    "Valdemoros Mendoza": 1,
-    "Lidia Valdemoros": 1,
-    "José Valdemoros": 1,
-    "Asunción Valdemoros": 1,
-    "Ibarra Treviño": 1,
-    "Fernandez Nalda": 1,
-    "Villar Martinez": 1,
-    "Pardal Perez": 1,
-    "Ruiz Alonso": 1,
-    "Elguezabal Uriarte": 1,
-    "Antonio Vidasolo": 1,
-    "Valdemoros Diaz": 1,
-    "Azucena Vicente": 1,
-    "Marcelo Ibarra": 1,
-    "Treviño Torres": 1
+const INITIAL_FAMILIES = [
+  {
+    "id": "@F2@",
+    "husb": "@I3@",
+    "wife": "@I32@",
+    "children": [],
+    "marriage": "16 AUG 1963",
+    "marriagePlace": "Barcelona, España"
   },
-  "relaciones": {
-    "Cónyuge de persona incluida": 22,
-    "Descendiente generación 2": 19,
-    "Descendiente generación 1": 7,
-    "Raíz: Celestina Ibarra González": 1,
-    "Ancestro generación 1": 2,
-    "Ancestro generación 2": 4
+  {
+    "id": "@F10@",
+    "husb": "@I33@",
+    "wife": "@I34@",
+    "children": [
+      "@I105@",
+      "@I32@",
+      "@I1177@",
+      "@I112@",
+      "@I114@"
+    ],
+    "marriage": "5 APR 1923",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F13@",
+    "husb": "@I43@",
+    "wife": "@I40@",
+    "children": [
+      "@I156@",
+      "@I159@",
+      "@I164@",
+      "@I160@",
+      "@I34@",
+      "@I158@",
+      "@I157@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F31@",
+    "husb": "@I106@",
+    "wife": "@I105@",
+    "children": [],
+    "marriage": "20 MAR 1943",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F33@",
+    "husb": "@I497@",
+    "wife": "@I111@",
+    "children": [
+      "@I40@"
+    ],
+    "marriage": "CAL 1863",
+    "marriagePlace": "El Cortijo"
+  },
+  {
+    "id": "@F34@",
+    "husb": "@I113@",
+    "wife": "@I112@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F35@",
+    "husb": "@I115@",
+    "wife": "@I114@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F51@",
+    "husb": "@I158@",
+    "wife": "@I161@",
+    "children": [
+      "@I342@"
+    ],
+    "marriage": "29 DEC 1932",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F52@",
+    "husb": "@I156@",
+    "wife": "@I162@",
+    "children": [
+      "@I349@",
+      "@I352@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F53@",
+    "husb": "",
+    "wife": "",
+    "children": [
+      "@I162@",
+      "@I161@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F54@",
+    "husb": "@I160@",
+    "wife": "@I165@",
+    "children": [
+      "@I1190@"
+    ],
+    "marriage": "29 OCT 1957",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F66@",
+    "husb": "@I157@",
+    "wife": "@I196@",
+    "children": [
+      "@I197@",
+      "@I198@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F109@",
+    "husb": "@I342@",
+    "wife": "@I343@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F112@",
+    "husb": "@I349@",
+    "wife": "@I350@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F113@",
+    "husb": "@I352@",
+    "wife": "@I353@",
+    "children": [],
+    "marriage": "5 NOV 1944",
+    "marriagePlace": "el Cortijo"
+  },
+  {
+    "id": "@F117@",
+    "husb": "@I159@",
+    "wife": "@I361@",
+    "children": [
+      "@I363@",
+      "@I365@",
+      "@I362@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F118@",
+    "husb": "@I364@",
+    "wife": "@I363@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F126@",
+    "husb": "@I362@",
+    "wife": "@I376@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F142@",
+    "husb": "@I164@",
+    "wife": "@I407@",
+    "children": [
+      "@I408@",
+      "@I409@",
+      "@I410@",
+      "@I411@",
+      "@I412@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F176@",
+    "husb": "@I498@",
+    "wife": "@I499@",
+    "children": [
+      "@I111@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F180@",
+    "husb": "@I506@",
+    "wife": "@I111@",
+    "children": [],
+    "marriage": "20 NOV 1879",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F276@",
+    "husb": "@I409@",
+    "wife": "@I841@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F277@",
+    "husb": "@I842@",
+    "wife": "@I410@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F284@",
+    "husb": "@I863@",
+    "wife": "@I412@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F400@",
+    "husb": "@I1190@",
+    "wife": "@I1191@",
+    "children": [],
+    "marriage": "",
+    "marriagePlace": ""
+  },
+  {
+    "id": "@F481@",
+    "husb": "@I1446@",
+    "wife": "@I1447@",
+    "children": [
+      "@I497@"
+    ],
+    "marriage": "",
+    "marriagePlace": ""
   }
-};
+];
