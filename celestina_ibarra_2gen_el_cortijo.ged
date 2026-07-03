@@ -1,0 +1,4624 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG Spanish
+1 SOUR MYHERITAGE
+2 NAME MyHeritage Family Tree Builder
+2 VERS 8.0.0.8645
+2 _RTLSAVE RTL
+2 CORP MyHeritage.com
+1 SUBM @U1@
+1 DEST MYHERITAGE
+1 DATE 3 JUL 2026
+2 TIME 10:49:13 
+2 _TIMEZONE GMT+1
+1 _RINS I2710,F860,N244,M0,R1,S19,U2,L0,P2397,Q0,IF10394,FF1984
+1 _UID 0C6E7EE4-A7FC-4917-9612-86BADAA34FD2
+1 _SM_MERGES 7
+1 _DESCRIPTION_AWARE Y
+0 @I3@ INDI
+1 RIN MH:I3
+1 _UID 01CA541D-7872-47D0-B0A7-72E4D9D30988
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Jose Maria /Matas Vilanova/
+2 GIVN Jose Maria
+2 SURN Matas Vilanova
+2 _RNAME Jose Maria  Joaquin y Juan
+1 SEX M
+1 BIRT
+2 _UID 7A25DBC4-DD58-474C-A311-B370962BD2B1
+2 RIN MH:IF4
+2 DATE 3 JUN 1922
+2 PLAC Prats de Lluçanes (Girona)
+2 OBJE
+3 FORM jpg
+3 TITL Jose Maria Matas Vilanova con Eli
+3 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2027\Database\Principal MatasLarrucea 2026_05_Photos\P3_2000_1994.jpg
+3 _PHOTO_RIN MH:P3
+3 _FILESIZE 307506
+1 DEAT
+2 _UID BB7BF628-D7C3-43FE-AD04-44FF8EBFB094
+2 RIN MH:IF5
+2 DATE 29 AUG 2008
+2 CAUS Causas naturales / Edad avanzada
+1 BURI
+2 _UID C91D7B61-C33B-44E6-A4DD-B2D212276FFE
+2 RIN MH:IF6
+2 PLAC Prats de Lluçanes (Girona)
+1 EVEN
+2 _UID EFE6177D-3748-4D05-9CD1-45D604CAE4E7
+2 RIN MH:IF4030
+2 TYPE Anecdote
+2 DATE 4 JUL 1954
+2 PLAC Calella
+2 NOTE Cayó desde un precipicio y se rompio muchos Huesos
+3 _DESCRIPTION Y
+2 NOTE <p>Cay&oacute; desde un precipicio y se rompio muchos Huesos. Gracias a su hermana Nuria no le amputaron la pierna porque esperaron un d&iacute;a m&aacute;s.</p>
+3 CONT <p>&nbsp;</p>
+3 CONT <p>El cirujano dijo hay que cortar por debajo de la rodilla porque si la cangrena segu&iacute;a le cortar&iacute;an por encima de ella. La t&iacute;a Nuria decidi&oacute; esperar y gracias a eso se la
+3 CONC  salv&oacute;. Al d&iacute;a siguiente le pincharon con una aguja en el pie y mi padre sinti&oacute; el pinchazo..... Gracias tia Nuria.</p>
+1 DSCR <DESC></DESC>
+2 _UID 39D335C8-6D5F-4AA8-AA42-1F8A350AE879
+2 RIN MH:IF7
+1 OCCU Mecánico Industrial
+2 _UID B5705159-AADB-4A00-8F6C-1AA93955493B
+2 RIN MH:IF82
+1 EDUC Estudiaba en el seminario del Collell
+2 _UID 6202514a1815b1ecb74c001a7dda7111
+2 RIN MH:IF7412
+2 DATE 17 MAR 1935
+2 PLAC El Collell
+2 OBJE
+3 FORM jpg
+3 TITL Felicitacion de Nuria y Mari Rosa en el Collell
+3 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2027\Database\Principal MatasLarrucea 2026_05_Photos\P1151_2897_1783.jpg
+3 _DATE 17 MAR 1935
+3 _PLACE Collell
+3 _PHOTO_RIN MH:P1151
+3 _FILESIZE 958162
+1 OCCU Traspaso de Industria de Juan Becker Belf
+2 _UID 686cea81cad641f0ba5b60ff9e4a952f
+2 RIN MH:IF8077
+2 DATE 26 JAN 1953
+2 PLAC Barcelona, España
+2 OBJE
+3 FORM pdf
+3 TITL 1953 traspaso taller a Juan Enrique Becker Belf 20250708 0001
+3 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2027\Database\Principal MatasLarrucea 2026_05_Photos\P1392.pdf
+3 _PHOTO_RIN MH:P1392
+3 _FILESIZE 993742
+1 OCCU Inspecion de trabajo, tenia 11W en Pje Dr. Torent 3
+2 _UID 686ceb39cad641f0ba5b60ff9e4a952f
+2 RIN MH:IF8078
+2 DATE 14 FEB 1967
+2 PLAC Barcelona, España
+2 OBJE
+3 FORM pdf
+3 TITL 1967 Inspeccion del taller 20250708 0001
+3 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2027\Database\Principal MatasLarrucea 2026_05_Photos\P1393.pdf
+3 _PHOTO_RIN MH:P1393
+3 _FILESIZE 1545540
+1 OCCU COmpra Pje Dr.Torent a Juan Enrique Becker
+2 _UID 686ceb98cad641f0ba5b60ff9e4a952f
+2 RIN MH:IF8079
+2 DATE 8 FEB 1955
+2 PLAC Barcelona, España
+2 OBJE
+3 FORM pdf
+3 TITL 1955 compra del taller 20250708 0001
+3 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2027\Database\Principal MatasLarrucea 2026_05_Photos\P1394.pdf
+3 _PHOTO_RIN MH:P1394
+3 _FILESIZE 2200991
+1 RELI
+2 _UID 686cecb6cad641f0ba5b60ff9e4a952f
+2 RIN MH:IF8080
+2 DATE 18 AUG 1963
+2 PLAC Barcelona, España
+1 FAMS @F2@
+1 OBJE
+2 FORM jpg
+2 TITL 199804 0574 carrete 22 
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P123_1500_994.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 635 189 777 378
+2 _PHOTO_RIN MH:P123
+2 _FILESIZE 122314
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P149_142_189.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P149
+2 _FILESIZE 7243
+2 _PARENTRIN @P123@
+1 OBJE
+2 FORM jpg
+2 TITL Jose Maria Matas Vilanova comunion
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2_1170_2000.jpg
+2 _PHOTO_RIN MH:P2
+2 _FILESIZE 107476
+1 OBJE
+2 FORM jpg
+2 TITL Jose Maria Matas Vilanova con Eli
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P3_2000_1994.jpg
+2 _PHOTO_RIN MH:P3
+2 _FILESIZE 307506
+1 OBJE
+2 FORM jpg
+2 TITL Certificado de nacimiento JM M
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P479_1414_2000.jpg
+2 _PHOTO_RIN MH:P483
+2 _FILESIZE 743350
+1 OBJE
+2 FORM jpg
+2 TITL Peticion JM y Lulu0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P291_966_1295.jpg
+2 _POSITION 660 297 730 377
+2 _PHOTO_RIN MH:P292
+2 _FILESIZE 132638
+1 OBJE
+2 FORM jpg
+2 TITL 1978 Matas Larrucea Rita EL Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P234_2000_1988.jpg
+2 _POSITION 1306 621 1604 1018
+2 _PHOTO_RIN MH:P235
+2 _FILESIZE 817331
+1 OBJE
+2 FORM jpg
+2 TITL Familia Mats Arovitx Clara
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P267_325_322.jpg
+2 _DATE 17 AUG 1927
+2 _PLACE Prats de Lluçanes (Girona)
+2 _POSITION 53 163 94 209
+2 _PHOTO_RIN MH:P268
+2 _FILESIZE 25769
+1 OBJE
+2 FORM jpg
+2 TITL 2009.03.21 fulencio josefina y jm
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P240_1077_670.jpg
+2 _POSITION 380 477 511 612
+2 _PHOTO_RIN MH:P241
+2 _FILESIZE 63404
+1 OBJE
+2 FORM jpg
+2 TITL 1927.08.17 Prtas de LLuçanes JM Nuri y Maria Rosa
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P269_526_855.jpg
+2 _DATE 17 AUG 1927
+2 _PLACE Prats de Lluçanes (Girona)
+2 _POSITION 350 256 483 398
+2 _PHOTO_RIN MH:P270
+2 _FILESIZE 42875
+1 OBJE
+2 FORM jpg
+2 TITL Jose Maria Matas Vilanova
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P270_526_762.jpg
+2 _PHOTO_RIN MH:P271
+2 _FILESIZE 32508
+1 OBJE
+2 FORM jpg
+2 TITL 2001.2.10 Pratas de Lluçanes
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P302_869_582.jpg
+2 _POSITION 420 196 498 297
+2 _PHOTO_RIN MH:P303
+2 _FILESIZE 50580
+1 OBJE
+2 FORM jpg
+2 TITL 2001. Besalu
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P303_866_576.jpg
+2 _POSITION 375 267 454 372
+2 _PHOTO_RIN MH:P304
+2 _FILESIZE 69467
+1 OBJE
+2 FORM jpg
+2 TITL 2002 Semana Santa
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P304_735_613.jpg
+2 _POSITION 425 103 499 194
+2 _PHOTO_RIN MH:P305
+2 _FILESIZE 73327
+1 OBJE
+2 FORM jpg
+2 TITL Familia Gili Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P326_723_513.jpg
+2 _POSITION 467 215 544 321
+2 _PHOTO_RIN MH:P327
+2 _FILESIZE 50587
+1 OBJE
+2 FORM jpg
+2 TITL 1954 Accidente papa
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P411_2000_1394.jpg
+2 _DATE 18 JUL 1954
+2 _POSITION 892 811 1136 1057
+2 _PHOTO_RIN MH:P415
+2 _FILESIZE 325000
+1 OBJE
+2 FORM jpg
+2 TITL 1922.12 Josep maria y avis
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P413_2000_1781.jpg
+2 _DATE DEC 1922
+2 _PLACE Reus, España
+2 _POSITION 1273 953 1492 1169
+2 _PHOTO_RIN MH:P417
+2 _FILESIZE 437218
+1 OBJE
+2 FORM jpg
+2 TITL 1942 Jose MriaColegioMiguel de los Santos Vich
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P418_1227_804.jpg
+2 _DATE 1942
+2 _POSITION 528 152 581 209
+2 _PHOTO_RIN MH:P422
+2 _FILESIZE 143886
+1 OBJE
+2 FORM jpg
+2 TITL Rosalia Matas
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P419_1239_846.jpg
+2 _POSITION 494 233 687 450
+2 _PHOTO_RIN MH:P423
+2 _FILESIZE 98734
+1 OBJE
+2 FORM jpg
+2 TITL Papa y el tio jorge
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P424_1282_2000.jpg
+2 _POSITION 172 165 490 499
+2 _PHOTO_RIN MH:P428
+2 _FILESIZE 373239
+1 OBJE
+2 FORM jpg
+2 TITL Matas Clara en la escalera de Prats
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P465_1085_1763.jpg
+2 _DATE ABT 1924
+2 _PLACE Prats de Lluçanes (Girona)
+2 _POSITION 491 396 598 508
+2 _PHOTO_RIN MH:P469
+2 _FILESIZE 149031
+1 OBJE
+2 FORM jpg
+2 TITL Certificado defuncion Josefina Vilanova
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P477_1414_2000.jpg
+2 _DATE 7 MAY 1930
+2 _PLACE Prats de Lluçanes (Girona)
+2 _PHOTO_RIN MH:P481
+2 _FILESIZE 714403
+1 OBJE
+2 FORM jpg
+2 TITL 1930.05.20 Esquela de Josefina Vilanova
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P766_908_645.jpg
+2 _DATE 20 MAY 1930
+2 _PLACE Reus, España
+2 _PHOTO_RIN MH:P776
+2 _FILESIZE 173865
+1 OBJE
+2 FORM jpg
+2 TITL 1922.06.06 Nacimiento de Jose maria Matas Vilanova
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P774_372_360.jpg
+2 _DATE 6 JUN 1922
+2 _PLACE Prats de Lluçanes (Girona)
+2 _PHOTO_RIN MH:P784
+2 _FILESIZE 44594
+1 OBJE
+2 FORM pdf
+2 TITL 1922 bautizo de Jose Maria Matas Vilanova
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1119.pdf
+2 _DATE 1922
+2 _PLACE Prats de Lluçanes (Girona)
+2 _PHOTO_RIN MH:P1119
+2 _FILESIZE 639788
+1 OBJE
+2 FORM jpg
+2 TITL Felicitacion de Nuria y Mari Rosa en el Collell
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1151_2897_1783.jpg
+2 _DATE 17 MAR 1935
+2 _PLACE Collell
+2 _PHOTO_RIN MH:P1151
+2 _FILESIZE 958162
+1 OBJE
+2 FORM jpg
+2 TITL Cariños a su mujer
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1175_1547_1600.jpg
+2 _DATE 14 FEB 2001
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P1175
+2 _FILESIZE 420312
+1 OBJE
+2 FORM jpg
+2 TITL 1925 Esquela Josefina Vilanova
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1493_1415_541.jpg
+2 _DATE 05/1930
+2 _PLACE Reus, España
+2 _PHOTO_RIN MH:P1493
+2 _FILESIZE 177792
+1 OBJE
+2 FORM jpg
+2 TITL 1949 JM Matas carnet remo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2125_3344_2384.jpg
+2 _DATE 15 NOV 1949
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P2125
+2 _FILESIZE 4805942
+1 OBJE
+2 FORM jpg
+2 TITL 1969 Pasaporte JM Matas
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2126_4640_3872.jpg
+2 _DATE 1969
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P2126
+2 _FILESIZE 10895316
+1 OBJE
+2 FORM png
+2 TITL Hermanos Matas y tio Rosell
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2127_1536_1024.png
+2 _PHOTO_RIN MH:P2127
+2 _FILESIZE 2844191
+1 OBJE
+2 FORM jpeg
+2 TITL Olaetas y los Matas
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2167_1448_1086.jpeg
+2 _PHOTO_RIN MH:P2167
+2 _FILESIZE 304584
+1 OBJE
+2 FORM pdf
+2 TITL 1975.03.31 Balance Taller Metalguia Matas Vilanova 20260523 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2273.pdf
+2 _DATE 31 MAR 1975
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P2273
+2 _FILESIZE 460835
+0 @I32@ INDI
+1 RIN MH:I32
+1 _UID E26531EE-15C0-4B8F-8C83-34129C1C1EA0
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Maria Jesús /Larrucea Valdemoros/
+2 GIVN Maria Jesús
+2 SURN Larrucea Valdemoros
+1 SEX F
+1 BIRT
+2 _UID E1D02884-44C9-4DFC-B598-EFB8DDCDD8A5
+2 RIN MH:IF83
+2 DATE 25 DEC 1925
+2 PLAC Bilbao
+1 DEAT
+2 _UID 6596612318da81eeb7ed001a7dda7111
+2 RIN MH:IF7767
+2 DATE 29 DEC 2023
+2 PLAC Barcelona, España
+2 CAUS Virus sincitial respiratorio
+1 BURI
+2 _UID 6596613418da81eeb7ed001a7dda7111
+2 RIN MH:IF7768
+2 PLAC Prats de Lluçanes (Girona)
+1 FAMS @F2@
+1 FAMC @F10@
+1 NOTE Bautizada en San Nicolás
+1 OBJE
+2 FORM jpg
+2 TITL 2008.02.09 Santo de Lourdes en Vallirana  MJL
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P54_425_589.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 5 18 419 570
+2 _PHOTO_RIN MH:P54
+2 _FILESIZE 39455
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P55_414_552.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P55
+2 _FILESIZE 47419
+2 _PARENTRIN @P54@
+1 OBJE
+2 FORM jpg
+2 TITL Peticion JM y Lulu0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P291_966_1295.jpg
+2 _POSITION 113 969 224 1087
+2 _PHOTO_RIN MH:P292
+2 _FILESIZE 132638
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (6)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P259_942_1403.jpg
+2 _POSITION 422 425 612 646
+2 _PHOTO_RIN MH:P260
+2 _FILESIZE 77601
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P257_2000_1358.jpg
+2 _POSITION 536 415 750 706
+2 _PHOTO_RIN MH:P258
+2 _FILESIZE 230971
+1 OBJE
+2 FORM jpg
+2 TITL 1978 Matas Larrucea Rita EL Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P234_2000_1988.jpg
+2 _POSITION 903 701 1255 1085
+2 _PHOTO_RIN MH:P235
+2 _FILESIZE 817331
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (7)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P250_1404_907.jpg
+2 _POSITION 378 250 570 510
+2 _PHOTO_RIN MH:P251
+2 _FILESIZE 67840
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (4)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P253_2000_1287.jpg
+2 _POSITION 612 265 923 581
+2 _PHOTO_RIN MH:P254
+2 _FILESIZE 300959
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (10)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P256_945_1391.jpg
+2 _POSITION 511 374 686 571
+2 _PHOTO_RIN MH:P257
+2 _FILESIZE 93709
+1 OBJE
+2 FORM jpg
+2 TITL 2007.08.26 El Cortijo 019
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P264_600_800.jpg
+2 _PHOTO_RIN MH:P265
+2 _FILESIZE 46705
+1 OBJE
+2 FORM jpg
+2 TITL 2001.2.10 Pratas de Lluçanes
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P302_869_582.jpg
+2 _POSITION 319 189 384 277
+2 _PHOTO_RIN MH:P303
+2 _FILESIZE 50580
+1 OBJE
+2 FORM jpg
+2 TITL 2001. Besalu
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P303_866_576.jpg
+2 _POSITION 506 300 566 390
+2 _PHOTO_RIN MH:P304
+2 _FILESIZE 69467
+1 OBJE
+2 FORM jpg
+2 TITL 2002 Semana Santa
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P304_735_613.jpg
+2 _POSITION 545 132 605 208
+2 _PHOTO_RIN MH:P305
+2 _FILESIZE 73327
+1 OBJE
+2 FORM jpg
+2 TITL Familia Gili Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P326_723_513.jpg
+2 _POSITION 373 210 428 286
+2 _PHOTO_RIN MH:P327
+2 _FILESIZE 50587
+1 OBJE
+2 FORM jpg
+2 TITL Jordi Matas con tieta
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P330_457_447.jpg
+2 _POSITION 102 114 187 207
+2 _PHOTO_RIN MH:P331
+2 _FILESIZE 23350
+1 OBJE
+2 FORM jpg
+2 TITL 1948 Rosalia / 1948 Rosalia FOnt de Prades
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P414_1998_2000.jpg
+2 _DATE 1984
+2 _PLACE Prades Tarragona
+2 _POSITION 1238 830 1462 1012
+2 _PHOTO_RIN MH:P418
+2 _FILESIZE 609415
+1 OBJE
+2 FORM jpg
+2 TITL Maria Jesus Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P417_1396_2000.jpg
+2 _PHOTO_RIN MH:P421
+2 _FILESIZE 456684
+1 OBJE
+2 FORM jpg
+2 TITL Rosalia Matas
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P419_1239_846.jpg
+2 _POSITION 182 214 358 443
+2 _PHOTO_RIN MH:P423
+2 _FILESIZE 98734
+1 OBJE
+2 FORM jpg
+2 TITL LArrus
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P425_1403_1344.jpg
+2 _POSITION 207 512 562 930
+2 _PHOTO_RIN MH:P429
+2 _FILESIZE 91201
+1 OBJE
+2 FORM jpg
+2 TITL Boda Joseba Larrucea Goiri
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P450_800_508.jpg
+2 _POSITION 460 142 506 201
+2 _PHOTO_RIN MH:P454
+2 _FILESIZE 53563
+1 OBJE
+2 FORM jpg
+2 TITL Cariños a su mujer
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1175_1547_1600.jpg
+2 _DATE 14 FEB 2001
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P1175
+2 _FILESIZE 420312
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Maria Carmen Larrucea 1928
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1207_772_627.jpg
+2 _DATE 24 AUG 1928
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1207
+2 _FILESIZE 78810
+1 OBJE
+2 FORM jpg
+2 TITL 1948.05.10 Instructora Elemental de Hogar Maria Jesus
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1376_1162_1600.jpg
+2 _DATE 10 MAY 1948
+2 _PLACE Barcelona, España
+2 _SCAN Y
+2 _PHOTO_RIN MH:P1376
+2 _FILESIZE 138566
+1 OBJE
+2 FORM jpeg
+2 TITL Olaetas y los Matas
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2167_1448_1086.jpeg
+2 _PHOTO_RIN MH:P2167
+2 _FILESIZE 304584
+1 OBJE
+2 FORM pdf
+2 TITL 1975.03.31 Balance Taller Metalguia Matas Vilanova 20260523 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2273.pdf
+2 _DATE 31 MAR 1975
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P2273
+2 _FILESIZE 460835
+0 @I33@ INDI
+1 RIN MH:I33
+1 _UID 60D287CD-8F73-4F01-9992-CF5732F89967
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Jenaro /Larrucea Yarritu/
+2 GIVN Jenaro
+2 SURN Larrucea Yarritu
+1 SEX M
+1 BIRT
+2 _UID 19E778D5-7C51-49EC-9FC1-E172A69DEB14
+2 RIN MH:IF85
+2 DATE 25 JUL 1897
+2 PLAC Bilbao -Santa Maria de Begoña
+1 DEAT
+2 _UID C9AC9AFA-F235-46A5-B04B-4F1A8E05BC31
+2 RIN MH:IF86
+2 DATE 25 FEB 1986
+2 PLAC Barcelona, España
+2 NOTE Fallecio en el Hospital Virgen de Pilar Barcelona
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 64633692fdb2a1edb7b8001a7dda7111
+2 RIN MH:IF7599
+2 TYPE General
+2 DATE 30 MAY 1933
+2 PLAC Logroño, España
+2 SOUR @S5@
+3 RIN MH:SC232
+3 PAGE https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=472097&posicion=1#search=%22genaro+larrucea%22
+3 PAGE https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=472097&posicion=1#search=%22genaro+larrucea%22
+3 QUAY 0
+2 NOTE Inauguracion del Hogar Vasco en Logroño
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6475cd394d5cd1edb7b9001a7dda7111
+2 RIN MH:IF7624
+2 TYPE Military Promotion
+2 DATE 12 DEC 1937
+2 PLAC Logroño, España
+2 NOTE Asigna como Alferez
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6475ce954d5cd1edb7b9001a7dda7111
+2 RIN MH:IF7625
+2 TYPE Herida en un brazo
+2 DATE 11 AUG 1934
+2 PLAC EL Cortijo
+2 SOUR @S5@
+3 RIN MH:SC234
+3 PAGE https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=294831&idBusqueda=46507&presentacion=pagina&posicion=4
+3 PAGE https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=294831&idBusqueda=46507&presentacion=pagina&posicion=4
+3 QUAY 0
+2 NOTE Herida en un brazo por un taladro
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6852da93226761f0ba4960ff9e4a952f
+2 RIN MH:IF8068
+2 TYPE Residencia
+2 DATE 11 JUN 1952
+2 PLAC Barcelona, España
+2 NOTE Alquiler tres Señoras
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6852dcc0226761f0ba4960ff9e4a952f
+2 RIN MH:IF8069
+2 TYPE Anecdote
+2 DATE 15 JUL 1940
+2 PLAC Barcelona, España
+2 NOTE Socio Club Natacion de Barcelona
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6852dd5d226761f0ba4960ff9e4a952f
+2 RIN MH:IF8070
+2 TYPE Anecdote
+2 DATE 26 MAY 1965
+2 PLAC Barcelona, España
+2 NOTE Les imponen una multa de 500pts por no legalizar elementos industriales
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6852ddc6226761f0ba4960ff9e4a952f
+2 RIN MH:IF8072
+2 TYPE Anecdote
+2 DATE 16 FEB 1972
+2 PLAC Barcelona, España
+2 NOTE Fallecimiento de la abuela juanita
+3 _DESCRIPTION Y
+1 EVEN
+2 _UID 6852e01e226761f0ba4960ff9e4a952f
+2 RIN MH:IF8073
+2 TYPE Military Award
+2 DATE 2 MAY 1940
+2 PLAC Barcelona, España
+2 NOTE Medallas de guerra
+3 _DESCRIPTION Y
+1 OCCU fabricacion motor LARRAN nº 6
+2 _UID 6852d9bf226761f0ba4960ff9e4a952f
+2 RIN MH:IF8067
+2 DATE 3 JAN 1953
+2 PLAC Barcelona, España
+1 FAMS @F10@
+1 OBJE
+2 FORM jpg
+2 TITL 2008.12.23 Genaro Larrucea Yarritu y Juanita Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P18_1322_2000.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 705 126 1014 538
+2 _PHOTO_RIN MH:P18
+2 _FILESIZE 209288
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P236_308_412.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P237
+2 _FILESIZE 20563
+2 _PARENTRIN @P18@
+1 OBJE
+2 FORM jpg
+2 TITL Motores Larran Genaro Larrucea copiar / Motores Larran Genaro Larrucea.
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P193_797_539.jpg
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P194
+2 _FILESIZE 65577
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (6)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P259_942_1403.jpg
+2 _PHOTO_RIN MH:P260
+2 _FILESIZE 77601
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P257_2000_1358.jpg
+2 _POSITION 1185 223 1445 573
+2 _PHOTO_RIN MH:P258
+2 _FILESIZE 230971
+1 OBJE
+2 FORM bmp
+2 TITL untitled / Larrucea Torre
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P247_227_128.bmp
+2 _POSITION 176 22 206 52
+2 _PHOTO_RIN MH:P248
+2 _FILESIZE 608454
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (10)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P256_945_1391.jpg
+2 _PHOTO_RIN MH:P257
+2 _FILESIZE 93709
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (2)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P258_346_503.jpg
+2 _POSITION 125 33 188 100
+2 _PHOTO_RIN MH:P259
+2 _FILESIZE 22907
+1 OBJE
+2 FORM jpg
+2 TITL Genaro y Juanita p
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P273_813_1140.jpg
+2 _PLACE La encina, Barcelona
+2 _POSITION 220 232 322 374
+2 _PHOTO_RIN MH:P274
+2 _FILESIZE 64856
+1 OBJE
+2 FORM jpg
+2 TITL 2009.12003 / Certificados de nacimiento
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P562_1151_388.jpg
+2 _DATE 1890
+2 _PHOTO_RIN MH:P567
+2 _FILESIZE 82106
+1 OBJE
+2 FORM jpg
+2 TITL LArrus
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P425_1403_1344.jpg
+2 _POSITION 529 26 878 459
+2 _PHOTO_RIN MH:P429
+2 _FILESIZE 91201
+1 OBJE
+2 FORM jpg
+2 TITL Boda Joseba Larrucea Goiri
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P450_800_508.jpg
+2 _POSITION 713 119 765 183
+2 _PHOTO_RIN MH:P454
+2 _FILESIZE 53563
+1 OBJE
+2 FORM jpg
+2 TITL Medallas del abuelo / Medallas del abuelo de la guerra civil dadas como Teniente
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P460_1753_1240.jpg
+2 _DATE 2 MAY 1940
+2 _PLACE Madrid
+2 _SCAN Y
+2 _PHOTO_RIN MH:P464
+2 _FILESIZE 325141
+1 OBJE
+2 FORM pdf
+2 TITL Soliciatr documentacion al ministerio defensa de Genaro Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1136.pdf
+2 _DATE 2009
+2 _PHOTO_RIN MH:P1136
+2 _FILESIZE 3130509
+1 OBJE
+2 FORM jpg
+2 TITL Primos de Madrid
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1176_1570_1046.jpg
+2 _PHOTO_RIN MH:P1176
+2 _FILESIZE 529025
+1 OBJE
+2 FORM jpg
+2 TITL 1933 Hogar Vasco
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1206_200_684.jpg
+2 _DATE 19 MAR 1933
+2 _PLACE Logroño, España
+2 _SCAN Y
+2 _PHOTO_RIN MH:P1206
+2 _FILESIZE 42511
+1 OBJE
+2 FORM jpg
+2 TITL Jenaro Larrucea Alferez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1224_447_196.jpg
+2 _DATE 12 DEC 1937
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1224
+2 _FILESIZE 19238
+1 OBJE
+2 FORM png
+2 TITL Abuelo herido La Rioja diario político 
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1369_697_751.png
+2 _DATE 11 AUG 1934
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1369
+2 _FILESIZE 1146283
+1 OBJE
+2 FORM jpg
+2 TITL 1940.07.15 carnet socio Club Natacion Barcelona Jenaro
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1380_2216_1660.jpg
+2 _DATE 15//1940
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P1380
+2 _FILESIZE 614933
+1 OBJE
+2 FORM pdf
+2 TITL Abuelo Jenaro torero
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1408.pdf
+2 _DATE 14 SEP 1921
+2 _PLACE MAdrid
+2 _PHOTO_RIN MH:P1408
+2 _FILESIZE 3503769
+1 OBJE
+2 FORM jpg
+2 TITL Talleres Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1409_195_168.jpg
+2 _DATE 12 OCT 1968
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1409
+2 _FILESIZE 7629
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM pdf
+2 TITL 2025 certificado defuncion Jenaro Larrucea 
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1609.pdf
+2 _DATE 7 FEB 1986
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P1609
+2 _FILESIZE 366661
+1 OBJE
+2 FORM pdf
+2 TITL 1934.04.01 Jurado Mixto Jenaro Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1760.pdf
+2 _DATE 1 APR 1934
+2 _PHOTO_RIN MH:P1760
+2 _FILESIZE 3559
+1 OBJE
+2 FORM pdf
+2 TITL 1959 carta Jaime al abuelo LARRAN (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2108.pdf
+2 _DATE 1959
+2 _PHOTO_RIN MH:P2108
+2 _FILESIZE 269723
+1 OBJE
+2 FORM pdf
+2 TITL 1981 Carta tia Carmen a JMML en Leon 20251212 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2142.pdf
+2 _DATE 1981
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P2142
+2 _FILESIZE 502451
+1 OBJE
+2 FORM jpeg
+2 TITL Bautizo de Juana VaLDEMOROS
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2284_1536_2048.jpeg
+2 _DATE 6 JAN 1898
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2284
+2 _FILESIZE 905204
+0 @I34@ INDI
+1 RIN MH:I34
+1 _UID 01610E14-7A20-4181-AE3A-C2D2D75465B8
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Juana /Valdemoros Ibarra/
+2 GIVN Juana
+2 SURN Valdemoros Ibarra
+2 _MARNM Larrucea
+1 SEX F
+1 BIRT
+2 _UID 1AF9000D-3F43-4B96-A5F5-ED43275D8A30
+2 RIN MH:IF87
+2 DATE 6 MAY 1897
+2 PLAC Logroño, España
+1 DEAT
+2 _UID 3B6A5F24-C379-42A0-AB36-EED409ED87B4
+2 RIN MH:IF88
+2 DATE 16 FEB 1972
+1 FAMS @F10@
+1 FAMC @F13@
+1 OBJE
+2 FORM jpg
+2 TITL 2008.12.23 Juanita Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P14_1202_2000.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 5 205 1196 1793
+2 _PHOTO_RIN MH:P14
+2 _FILESIZE 133598
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P19_1190_1588.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P19
+2 _FILESIZE 232093
+2 _PARENTRIN @P14@
+1 OBJE
+2 FORM jpg
+2 TITL 2008.12.23 Genaro Larrucea Yarritu y Juanita Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P18_1322_2000.jpg
+2 _POSITION 271 290 583 686
+2 _PHOTO_RIN MH:P18
+2 _FILESIZE 209288
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (6)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P259_942_1403.jpg
+2 _POSITION 239 407 460 750
+2 _PHOTO_RIN MH:P260
+2 _FILESIZE 77601
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P257_2000_1358.jpg
+2 _POSITION 151 492 350 728
+2 _PHOTO_RIN MH:P258
+2 _FILESIZE 230971
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (10)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P256_945_1391.jpg
+2 _POSITION 255 408 443 612
+2 _PHOTO_RIN MH:P257
+2 _FILESIZE 93709
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (2)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P258_346_503.jpg
+2 _POSITION 231 107 281 164
+2 _PHOTO_RIN MH:P259
+2 _FILESIZE 22907
+1 OBJE
+2 FORM jpg
+2 TITL Genaro y Juanita p
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P273_813_1140.jpg
+2 _PLACE La encina, Barcelona
+2 _POSITION 383 339 499 481
+2 _PHOTO_RIN MH:P274
+2 _FILESIZE 64856
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Juanita Valdemoros Ibarra copiar / esquela juanita valdemoros ibarra copiar
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P348_749_632.jpg
+2 _DATE 17 FEB 1972
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P350
+2 _FILESIZE 304728
+1 OBJE
+2 FORM jpg
+2 TITL LArrus
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P425_1403_1344.jpg
+2 _POSITION 89 4 429 374
+2 _PHOTO_RIN MH:P429
+2 _FILESIZE 91201
+1 OBJE
+2 FORM jpg
+2 TITL Boda Joseba Larrucea Goiri
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P450_800_508.jpg
+2 _POSITION 409 153 448 196
+2 _PHOTO_RIN MH:P454
+2 _FILESIZE 53563
+1 OBJE
+2 FORM jpg
+2 TITL 2011.01 BOda de OlaetaLarrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P745_800_570.jpg
+2 _DATE 5 FEB 1921
+2 _PLACE Gernika-Lumo, España
+2 _POSITION 221 129 278 205
+2 _PHOTO_RIN MH:P751
+2 _FILESIZE 136966
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Maria Carmen Larrucea 1928
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1207_772_627.jpg
+2 _DATE 24 AUG 1928
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1207
+2 _FILESIZE 78810
+1 OBJE
+2 FORM png
+2 TITL Nacimiento Juana Valdemoros 'La Rioja diario político'
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1368_285_152.png
+2 _DATE 10 MAY 1898
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1368
+2 _FILESIZE 49510
+1 OBJE
+2 FORM jpg
+2 TITL Jai Alia Olaeta
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1389_1490_942.jpg
+2 _PHOTO_RIN MH:P1389
+2 _FILESIZE 337860
+1 OBJE
+2 FORM jpg
+2 TITL 1926.01.19 Juana Valdemoros Ibarra en Bilbao
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1499_2432_3424.jpg
+2 _DATE 19 JAN 1926
+2 _PLACE Bilbao
+2 _PHOTO_RIN MH:P1499
+2 _FILESIZE 2018183
+1 OBJE
+2 FORM jpg
+2 TITL 1950.09.25 testamento de Celestina Juana Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1530_2400_3392.jpg
+2 _DATE 25 SEP 1950
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1530
+2 _FILESIZE 1605047
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM jpg
+2 TITL Enrique Valdemoros (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2110_4032_3024.jpg
+2 _PHOTO_RIN MH:P2110
+2 _FILESIZE 1768318
+1 OBJE
+2 FORM jpeg
+2 TITL Bautizo de Juana VaLDEMOROS
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2284_1536_2048.jpeg
+2 _DATE 6 JAN 1898
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2284
+2 _FILESIZE 905204
+1 OBJE
+2 FORM jpg
+2 TITL 1914.12.23 Bautizo Victor Jesus Hurtado Blanco
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2392_1746_1661.jpg
+2 _DATE 23 DEC 1914
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2392
+2 _FILESIZE 217867
+0 @I40@ INDI
+1 RIN MH:I40
+1 _UID 7CC28480-4CC1-4E35-8EC5-30618FDC5A99
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Celestina /Ibarra Gonzalez/
+2 GIVN Celestina
+2 SURN Ibarra Gonzalez
+1 SEX F
+1 BIRT
+2 _UID B14FED3F-D9E0-4833-A8A1-F27631DA27E5
+2 RIN MH:IF95
+2 DATE 7 APR 1864
+2 PLAC Logroño, España
+1 DEAT
+2 _UID 77C91F1E-1DE8-4683-98CD-67710947D496
+2 RIN MH:IF2904
+2 DATE 15 JAN 1951
+2 PLAC Logroño, España
+1 DSCR <DESC></DESC>
+2 _UID ABF2C7AC-4794-4764-AFB3-C43BF30DFE6F
+2 RIN MH:IF6575
+1 FAMS @F13@
+1 FAMC @F33@
+1 NOTE La llamaban la buena moza.
+2 CONT <p>Se casó dos veces. La primera con uno de Fuenmayor o de la Puebla. Y murió muy joven y el primer hijo de este matrimonio también murió.....Hay que investigar algo más. (2011.02 fuente abuela)<
+2 CONC /p>
+2 CONT <p></p>
+2 CONT <p>En el testamento de la abuela Juanita indica que murió en Logroño en 1951.</p>
+2 CONT <p></p>
+2 CONT <p>No se llevaba bien con su padrastro, y el novio se la lleva en caballo a casarse</p>
+1 OBJE
+2 FORM jpg
+2 TITL 2008.12.23  Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P17_1164_1722.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 5 92 1158 1629
+2 _PHOTO_RIN MH:P17
+2 _FILESIZE 106631
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P24_1152_1537.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P24
+2 _FILESIZE 259640
+2 _PARENTRIN @P17@
+1 OBJE
+2 FORM jpg
+2 TITL 1901 Celestino Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P428_1280_953.jpg
+2 _DATE 1922
+2 _PLACE Cordoba, Argentina
+2 _POSITION 19 238 396 309
+2 _PHOTO_RIN MH:P432
+2 _FILESIZE 159750
+1 OBJE
+2 FORM jpg
+2 TITL Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P780_699_466.jpg
+2 _PHOTO_RIN MH:P790
+2 _FILESIZE 34296
+1 OBJE
+2 FORM png
+2 TITL Enrique Valdemoros a New York
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P822_1024_489.png
+2 _DATE 23 MAR 1913
+2 _PLACE New York
+2 _PHOTO_RIN MH:P822
+2 _FILESIZE 288379
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Maria Carmen Larrucea 1928
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1207_772_627.jpg
+2 _DATE 24 AUG 1928
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1207
+2 _FILESIZE 78810
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1221_699_600.jpg
+2 _DATE 15 JAN 1951
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1221
+2 _FILESIZE 75836
+1 OBJE
+2 FORM jpg
+2 TITL Enrique Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1301_543_508.jpg
+2 _DATE 27 APR 1922
+2 _PLACE Aldea
+2 _PHOTO_RIN MH:P1301
+2 _FILESIZE 100769
+1 OBJE
+2 FORM jpg
+2 TITL samsung SM-A336B 4000x3000 103255
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1386_2079_3053.jpg
+2 _PHOTO_RIN MH:P1386
+2 _FILESIZE 1492213
+1 OBJE
+2 FORM jpg
+2 TITL samsung SM-A336B 4000x3000 115502
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1387_1517_1110.jpg
+2 _PHOTO_RIN MH:P1387
+2 _FILESIZE 413688
+1 OBJE
+2 FORM jpg
+2 TITL Factura del Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1388_3072_2304.jpg
+2 _DATE 1940
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1388
+2 _FILESIZE 3052161
+1 OBJE
+2 FORM jpg
+2 TITL esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1410_439_641.jpg
+2 _DATE 17 JAN 1951
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1410
+2 _FILESIZE 58577
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de bautismo Anastasio Valdemoros 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1424.pdf
+2 _DATE 19 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1424
+2 _FILESIZE 1734241
+1 OBJE
+2 FORM pdf
+2 TITL 1867.08.13 Defuncion de Gregorio Ibarra Treviño 20250923 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1465.pdf
+2 _DATE 13 AUG 1867
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1465
+2 _FILESIZE 2178246
+1 OBJE
+2 FORM jpg
+2 TITL 1913 librao valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1467_410_566.jpg
+2 _DATE 21 APR 1913
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1467
+2 _FILESIZE 70890
+1 OBJE
+2 FORM jpg
+2 TITL 1922 Enrique Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1468_373_550.jpg
+2 _DATE 23 MAR 1922
+2 _PLACE El Cortijo, Logroño, España
+2 _PHOTO_RIN MH:P1468
+2 _FILESIZE 86239
+1 OBJE
+2 FORM docx
+2 TITL Celestina y sus dos familias. Un siglo de vida en el Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1521.docx
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1521
+2 _FILESIZE 14798
+1 OBJE
+2 FORM jpg
+2 TITL 1950.09.25 testamento de Celestina Juana Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1530_2400_3392.jpg
+2 _DATE 25 SEP 1950
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1530
+2 _FILESIZE 1605047
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM jpg
+2 TITL 1930 – Propiedad de María Santos Melón y Celestina Ibarra en El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1584_2447_3434.jpg
+2 _DATE 15 MAR 1930
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1584
+2 _FILESIZE 5110151
+1 OBJE
+2 FORM jpg
+2 TITL 1932.12.30 Boda Basila treviño y Celestino Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1590_304_523.jpg
+2 _DATE 30 DEC 1932
+2 _PHOTO_RIN MH:P1590
+2 _FILESIZE 40666
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de nacimiento de Anastasio Baldemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1617.pdf
+2 _DATE 17 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1617
+2 _FILESIZE 4548695
+1 OBJE
+2 FORM pdf
+2 TITL 1902 Carta Maria Asuncion Treviño Lombardo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2099.pdf
+2 _DATE 1902
+2 _PLACE Valparaiso
+2 _PHOTO_RIN MH:P2099
+2 _FILESIZE 293808
+1 OBJE
+2 FORM jpg
+2 TITL Bordado Celestina 1872
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2121_2592_1944.jpg
+2 _DATE 1872
+2 _PHOTO_RIN MH:P2121
+2 _FILESIZE 2648829
+1 OBJE
+2 FORM jpeg
+2 TITL Bautizo de Juana VaLDEMOROS
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2284_1536_2048.jpeg
+2 _DATE 6 JAN 1898
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2284
+2 _FILESIZE 905204
+1 OBJE
+2 FORM jpg
+2 TITL 1912 Librado Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2294_3572_3561.jpg
+2 _DATE 1912
+2 _PLACE New York
+2 _PHOTO_RIN MH:P2294
+2 _FILESIZE 1617590
+1 OBJE
+2 FORM jpeg
+2 TITL 1936 entrerramiento de Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2396_895_1320.jpeg
+2 _DATE 10 SEP 1936
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2396
+2 _FILESIZE 361767
+0 @I43@ INDI
+1 RIN MH:I43
+1 _UID 2EB5866F-5491-4705-BD13-DE66D0D10702
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Cruz /Valdemoros Saenz/
+2 GIVN Cruz
+2 SURN Valdemoros Saenz
+1 SEX M
+1 BIRT
+2 _UID 428701BB-787C-40C9-B085-24F03AEA50C1
+2 RIN MH:IF98
+2 DATE 1862
+2 PLAC Logroño, España
+1 DEAT
+2 _UID AABACCE0-C350-43C2-BE1E-E5A4BA7C90E7
+2 RIN MH:IF2946
+2 DATE 5 DEC 1906
+2 PLAC El Cortijo
+1 OCCU Jornalero
+2 _UID 03CB9E28-B34B-49AB-8944-ECA7DA6F120C
+2 RIN MH:IF2909
+1 FAMS @F13@
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de bautismo Anastasio Valdemoros 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1424.pdf
+2 _DATE 19 AUG 1904
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _PHOTO_RIN MH:P1424
+2 _FILESIZE 1734241
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1425
+2 _PARENTRIN @P1424@
+1 OBJE
+2 FORM jpg
+2 TITL 1901 Celestino Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P428_1280_953.jpg
+2 _DATE 1922
+2 _PLACE Cordoba, Argentina
+2 _POSITION 2 218 414 314
+2 _PHOTO_RIN MH:P432
+2 _FILESIZE 159750
+1 OBJE
+2 FORM jpg
+2 TITL Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P780_699_466.jpg
+2 _POSITION 178 5 519 460
+2 _PHOTO_RIN MH:P790
+2 _FILESIZE 34296
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1221_699_600.jpg
+2 _DATE 15 JAN 1951
+2 _PLACE El Cortijo
+2 _POSITION 128 5 569 594
+2 _PHOTO_RIN MH:P1221
+2 _FILESIZE 75836
+1 OBJE
+2 FORM jpg
+2 TITL Enrique Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1301_543_508.jpg
+2 _DATE 27 APR 1922
+2 _PLACE Aldea
+2 _POSITION 85 5 457 502
+2 _PHOTO_RIN MH:P1301
+2 _FILESIZE 100769
+1 OBJE
+2 FORM png
+2 TITL esquela Gorgonia del Valle 
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1370_786_477.png
+2 _DATE 20 JAN 1960
+2 _PLACE El Cortijo
+2 _POSITION 218 5 567 471
+2 _PHOTO_RIN MH:P1370
+2 _FILESIZE 830691
+1 OBJE
+2 FORM jpg
+2 TITL 1913 librao valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1467_410_566.jpg
+2 _DATE 21 APR 1913
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1467
+2 _FILESIZE 70890
+1 OBJE
+2 FORM jpg
+2 TITL 1922 Enrique Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1468_373_550.jpg
+2 _DATE 23 MAR 1922
+2 _PLACE El Cortijo, Logroño, España
+2 _PHOTO_RIN MH:P1468
+2 _FILESIZE 86239
+1 OBJE
+2 FORM pdf
+2 TITL 1893.2.27 Incendio Cruz Valdemoros Saenz 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1477.pdf
+2 _DATE 27 FEB 1893
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1477
+2 _FILESIZE 2421521
+1 OBJE
+2 FORM pdf
+2 TITL 1891.11.22 Cruz Valdemoros compra Juan Melon en el Orcajo 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1491.pdf
+2 _DATE 22 NOV 1891
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1491
+2 _FILESIZE 1066269
+1 OBJE
+2 FORM jpg
+2 TITL 1891.11.22 Cruz Valdemoros compra en Oracajo a Juan Melon
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1494_1420_2156.jpg
+2 _DATE 22 NOV 1891
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1494
+2 _FILESIZE 972917
+1 OBJE
+2 FORM pdf
+2 TITL 1899 No poder pgar EL Cortijo el cupo 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1506.pdf
+2 _DATE 1899
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1506
+2 _FILESIZE 5694696
+1 OBJE
+2 FORM pdf
+2 TITL 1878.11.26 Fallecimiento Lucio Valdemors 20250927 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1512.pdf
+2 _DATE 26 NOV 1878
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1512
+2 _FILESIZE 1331881
+1 OBJE
+2 FORM jpg
+2 TITL 1887.05.27 Inutil para la mili Cruz Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1516_414_285.jpg
+2 _DATE 27 MAY 1887
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1516
+2 _FILESIZE 41268
+1 OBJE
+2 FORM jpg
+2 TITL 1906.12.06 esquela Cruz Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1536_262_271.jpg
+2 _DATE 6 DEC 1906
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1536
+2 _FILESIZE 31171
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de nacimiento de Anastasio Baldemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1617.pdf
+2 _DATE 17 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1617
+2 _FILESIZE 4548695
+1 OBJE
+2 FORM pdf
+2 TITL 1902 Carta Maria Asuncion Treviño Lombardo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2099.pdf
+2 _DATE 1902
+2 _PLACE Valparaiso
+2 _PHOTO_RIN MH:P2099
+2 _FILESIZE 293808
+1 OBJE
+2 FORM jpeg
+2 TITL Bautizo de Juana VaLDEMOROS
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2284_1536_2048.jpeg
+2 _DATE 6 JAN 1898
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2284
+2 _FILESIZE 905204
+1 OBJE
+2 FORM jpg
+2 TITL 1891.08.18 Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2334_1695_1941.jpg
+2 _DATE 18 AUG 1891
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2334
+2 _FILESIZE 303875
+1 OBJE
+2 FORM jpeg
+2 TITL 1936 entrerramiento de Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2396_895_1320.jpeg
+2 _DATE 10 SEP 1936
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2396
+2 _FILESIZE 361767
+0 @I105@ INDI
+1 RIN MH:I105
+1 _UID F1D40D9B-7548-42A2-B2E1-81286033703D
+1 _UPD 10 APR 2020 23:39:38 GMT+1
+1 NAME Maria Teresa /Larrucea/
+2 GIVN Maria Teresa
+2 NICK Maritere
+2 SURN Larrucea
+1 SEX F
+1 BIRT
+2 _UID A8E8A848-4041-44B7-8F97-F13A833778BF
+2 RIN MH:IF185
+2 DATE 6 MAR 1924
+2 PLAC Bilbao
+1 DEAT
+2 _UID 438F8E15-1EF3-44BD-9AFD-1278C462205C
+2 RIN MH:IF299
+2 DATE 27 JUN 2007
+1 FAMS @F31@
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 TITL 1978 Matas Larrucea Rita EL Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P234_2000_1988.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 230 467 599 960
+2 _PHOTO_RIN MH:P235
+2 _FILESIZE 817331
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P235_368_493.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P236
+2 _FILESIZE 27659
+2 _PARENTRIN @P235@
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (8)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P255_762_1146.jpg
+2 _POSITION 594 212 688 326
+2 _PHOTO_RIN MH:P256
+2 _FILESIZE 92227
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (4)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P253_2000_1287.jpg
+2 _POSITION 1092 213 1313 487
+2 _PHOTO_RIN MH:P254
+2 _FILESIZE 300959
+1 OBJE
+2 FORM jpeg
+2 TITL Rita
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1193_2048_1152.jpeg
+2 _DATE 1957
+2 _PLACE Mahon
+2 _POSITION 925 407 1031 511
+2 _PHOTO_RIN MH:P1193
+2 _FILESIZE 212673
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Maria Carmen Larrucea 1928
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1207_772_627.jpg
+2 _DATE 24 AUG 1928
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1207
+2 _FILESIZE 78810
+0 @I106@ INDI
+1 RIN MH:I106
+1 _UID 52623D96-B1CF-421F-9123-7F459F3A0C42
+1 _UPD 15 NOV 2024 18:43:28 GMT+1
+1 NAME Pelegrin /Rita Taltavull/
+2 GIVN Pelegrin
+2 SURN Rita Taltavull
+1 SEX M
+1 BIRT
+2 _UID A3154297-F5D1-4D56-AD37-1DB7B59B7417
+2 RIN MH:IF186
+2 DATE 1916
+2 PLAC Mahón, Menorca
+1 DEAT
+2 _UID EB895A5B-47E6-46E0-A5A3-C7BAE53F5BC6
+2 RIN MH:IF298
+2 DATE 21 NOV 2005
+2 PLAC Mahon
+2 CAUS Ataque de corazón
+1 BURI
+2 _UID 44772C5E-3CB4-4380-B17E-AD0123B83A24
+2 RIN MH:IF2256
+2 PLAC Mahon, Menorca
+1 FAMS @F31@
+1 OBJE
+2 FORM jpg
+2 TITL 1978 Matas Larrucea Rita EL Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P234_2000_1988.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 663 349 951 733
+2 _PHOTO_RIN MH:P235
+2 _FILESIZE 817331
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P237_288_384.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P238
+2 _FILESIZE 17647
+2 _PARENTRIN @P235@
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (8)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P255_762_1146.jpg
+2 _POSITION 249 103 352 236
+2 _PHOTO_RIN MH:P256
+2 _FILESIZE 92227
+1 OBJE
+2 FORM jpeg
+2 TITL Rita
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1193_2048_1152.jpeg
+2 _DATE 1957
+2 _PLACE Mahon
+2 _POSITION 1122 340 1228 458
+2 _PHOTO_RIN MH:P1193
+2 _FILESIZE 212673
+0 @I111@ INDI
+1 RIN MH:I111
+1 _UID 798F7F07-8746-4618-A04E-74E4450F4BEA
+1 _UPD 10 NOV 2025 18:51:40 GMT+1
+1 NAME Evarista /Gonzalez Villar/
+2 GIVN Evarista
+2 SURN Gonzalez Villar
+1 SEX F
+1 BIRT
+2 _UID 1BCCB9A9-C302-4915-9913-4ADCA9025DE7
+2 RIN MH:IF191
+2 DATE 28 OCT 1841
+2 PLAC El Cortijo
+1 DEAT
+2 _UID 7FF66886-8530-419F-B122-446AC89F4E11
+2 RIN MH:IF2912
+2 DATE 11 NOV 1906
+1 FAMS @F33@
+1 FAMS @F180@
+1 FAMC @F176@
+1 OBJE
+2 FORM png
+2 TITL matrimonio
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1437_512_512.png
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 62 0 442 506
+2 _PHOTO_RIN MH:P1437
+2 _FILESIZE 14022
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1438_442_506.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1438
+2 _FILESIZE 26992
+2 _PARENTRIN @P1437@
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de bautismo Anastasio Valdemoros 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1424.pdf
+2 _DATE 19 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1424
+2 _FILESIZE 1734241
+1 OBJE
+2 FORM pdf
+2 TITL IMG1839 matrimonio Andres Pardal EvaristaGonzalez 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1433.pdf
+2 _DATE 13 NOV 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1433
+2 _FILESIZE 1086562
+1 OBJE
+2 FORM pdf
+2 TITL 1867.08.13 Defuncion de Gregorio Ibarra Treviño 20250923 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1465.pdf
+2 _DATE 13 AUG 1867
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1465
+2 _FILESIZE 2178246
+1 OBJE
+2 FORM pdf
+2 TITL 1879.09.28 preparacion reparto herencia de Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1504.pdf
+2 _DATE 28 SEP 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1504
+2 _FILESIZE 960835
+1 OBJE
+2 FORM jpg
+2 TITL 1906.11.11 Esquela Evarista Gonzalez Villar
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1514_318_202.jpg
+2 _DATE 11 NOV 1906
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1514
+2 _FILESIZE 26135
+1 OBJE
+2 FORM docx
+2 TITL Celestina y sus dos familias. Un siglo de vida en el Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1521.docx
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1521
+2 _FILESIZE 14798
+1 OBJE
+2 FORM pdf
+2 TITL 1899 Fe de Bautismo Evarista Gonzalez completo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1550.pdf
+2 _DATE 10 de agosto de 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1550
+2 _FILESIZE 5166958
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de nacimiento de Anastasio Baldemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1617.pdf
+2 _DATE 17 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1617
+2 _FILESIZE 4548695
+1 OBJE
+2 FORM jpeg
+2 TITL Bautizo de Juana VaLDEMOROS
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2284_1536_2048.jpeg
+2 _DATE 6 JAN 1898
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2284
+2 _FILESIZE 905204
+1 OBJE
+2 FORM jpg
+2 TITL 1891.08.18 Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2334_1695_1941.jpg
+2 _DATE 18 AUG 1891
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2334
+2 _FILESIZE 303875
+0 @I112@ INDI
+1 RIN MH:I112
+1 _UID 1891ED05-EB3D-4025-8FDE-B37EA8A2BD32
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Carmen /Larrucea Valdemoros/
+2 GIVN Carmen
+2 SURN Larrucea Valdemoros
+1 SEX F
+1 BIRT
+2 _UID 3EC8AAD1-A89F-49B0-BA04-45409226B3DA
+2 RIN MH:IF192
+2 DATE 8 SEP 1928
+1 DEAT
+2 _UID 5f5866df84e0b1eaa0f3001a7dda7111
+2 RIN MH:IF7052
+2 DATE 8 SEP 2020
+1 FAMS @F34@
+1 FAMC @F10@
+1 SOUR @S5@
+2 RIN MH:SC228
+2 PAGE http://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/161566
+2 PAGE http://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/161566
+2 DATA
+3 TEXT Archivera perteneciente al Cuerpo Facultativo de Archiveros, Bibliotecarios y Arqueólogos. Delegada Provincial de los Servicios de Archivos, Directora del Archivo Histórico y del de la Delegación d
+4 CONC e Hacienda de Tarragona (1969-1974).Contrajo matrimonio con Jaime Rodrigo Pons.
+2 QUAY 0
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (4)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P253_2000_1287.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 95 290 345 624
+2 _PHOTO_RIN MH:P254
+2 _FILESIZE 300959
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P459_250_334.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P463
+2 _FILESIZE 17948
+2 _PARENTRIN @P254@
+1 OBJE
+2 FORM jpg
+2 TITL 1946 El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P420_2000_1350.jpg
+2 _DATE 28 SEP 1946
+2 _PLACE Logroño, España
+2 _POSITION 429 357 639 547
+2 _PHOTO_RIN MH:P424
+2 _FILESIZE 331510
+1 OBJE
+2 FORM jpg
+2 TITL LArrus
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P425_1403_1344.jpg
+2 _POSITION 773 597 1159 1068
+2 _PHOTO_RIN MH:P429
+2 _FILESIZE 91201
+1 OBJE
+2 FORM jpg
+2 TITL Boda Joseba Larrucea Goiri
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P450_800_508.jpg
+2 _POSITION 367 135 413 189
+2 _PHOTO_RIN MH:P454
+2 _FILESIZE 53563
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1185_600_454.jpg
+2 _DATE 8 SEP 2020
+2 _PHOTO_RIN MH:P1185
+2 _FILESIZE 42195
+1 OBJE
+2 FORM pdf
+2 TITL 2020.09.08 Carta despedida Carmen Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1379.pdf
+2 _DATE 8 SEP 2020
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P1379
+2 _FILESIZE 1136077
+1 OBJE
+2 FORM jpg
+2 TITL Recordatorio Jaime Rodrigo Pons copiar
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P342_735_734.jpg
+2 _DATE 13 FEB 1964
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P343
+2 _FILESIZE 339694
+1 OBJE
+2 FORM pdf
+2 TITL 1981 Carta tia Carmen a JMML en Leon 20251212 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2142.pdf
+2 _DATE 1981
+2 _PLACE Barcelona, España
+2 _PHOTO_RIN MH:P2142
+2 _FILESIZE 502451
+0 @I113@ INDI
+1 RIN MH:I113
+1 _UID F18061E5-6A64-4894-BBED-C1C8AE140B48
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Jaime /Rodrigo Pons/
+2 GIVN Jaime
+2 SURN Rodrigo Pons
+1 SEX M
+1 BIRT
+2 _UID C5465D1E-BC4C-402D-A405-9FE6EAE9E0B4
+2 RIN MH:IF193
+2 DATE 1924
+1 DEAT
+2 _UID 1B1B5BE6-F75D-4D97-B8E8-7E63091A65AC
+2 RIN MH:IF194
+2 DATE 13 FEB 1964
+2 PLAC Barcelona, España
+1 OCCU Jefe Maquinas Marina
+2 _UID 4E2681BF-6E50-46CA-814E-9D16923ADF9B
+2 RIN MH:IF337
+1 FAMS @F34@
+1 OBJE
+2 FORM jpg
+2 TITL Recordatorio Jaime Rodrigo Pons copiar
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P342_735_734.jpg
+2 _DATE 13 FEB 1964
+2 _PLACE Barcelona, España
+2 _POSITION 96 5 638 728
+2 _PHOTO_RIN MH:P343
+2 _FILESIZE 339694
+1 OBJE
+2 FORM pdf
+2 TITL 1959 carta Jaime al abuelo LARRAN (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2108.pdf
+2 _DATE 1959
+2 _PHOTO_RIN MH:P2108
+2 _FILESIZE 269723
+0 @I114@ INDI
+1 RIN MH:I114
+1 _UID 192444B4-EFF2-47BE-B910-1DED9F18A825
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Tomasita /Larrucea/
+2 GIVN Tomasita
+2 SURN Larrucea
+1 SEX F
+1 BIRT
+2 _UID 4870100A-C36F-4EB6-99F5-54500E56FB1F
+2 RIN MH:IF195
+2 DATE 28 AUG 1933
+1 DEAT
+2 _UID 90E58EA8-36F9-4CD4-BBD6-FDA4A6A72B00
+2 RIN MH:IF334
+2 DATE 28 APR 1964
+2 PLAC Madrid
+1 FAMS @F35@
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 TITL Tomasita pequeñas
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P271_600_787.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 163 0 468 395
+2 _PHOTO_RIN MH:P272
+2 _FILESIZE 35981
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P272_304_395.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P273
+2 _FILESIZE 18542
+2 _PARENTRIN @P272@
+1 OBJE
+2 FORM jpg
+2 TITL 2008.08.19 Fernando Aguilar y Tomasita
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P244_1344_2000.jpg
+2 _POSITION 496 573 638 763
+2 _PHOTO_RIN MH:P245
+2 _FILESIZE 201657
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (4)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P253_2000_1287.jpg
+2 _POSITION 1351 129 1680 467
+2 _PHOTO_RIN MH:P254
+2 _FILESIZE 300959
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (9)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P260_822_1143.jpg
+2 _POSITION 245 166 357 313
+2 _PHOTO_RIN MH:P261
+2 _FILESIZE 76422
+1 OBJE
+2 FORM jpg
+2 TITL 1946 El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P420_2000_1350.jpg
+2 _DATE 28 SEP 1946
+2 _PLACE Logroño, España
+2 _POSITION 1076 750 1286 988
+2 _PHOTO_RIN MH:P424
+2 _FILESIZE 331510
+1 OBJE
+2 FORM jpg
+2 TITL LArrus
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P425_1403_1344.jpg
+2 _POSITION 924 59 1331 479
+2 _PHOTO_RIN MH:P429
+2 _FILESIZE 91201
+1 OBJE
+2 FORM jpg
+2 TITL Boda Joseba Larrucea Goiri
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P450_800_508.jpg
+2 _POSITION 540 145 601 201
+2 _PHOTO_RIN MH:P454
+2 _FILESIZE 53563
+0 @I115@ INDI
+1 RIN MH:I115
+1 _UID 5FB3ADAA-476A-4E37-8DA3-2E3C2C71DC89
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Fernado /Aguilar Aznar/
+2 GIVN Fernado
+2 SURN Aguilar Aznar
+1 SEX M
+1 BIRT
+2 _UID E4DE6E69-B643-4D1F-B6C2-AFFB3083C552
+2 RIN MH:IF196
+1 DEAT
+2 _UID 5e74d1df6a2901eaa09c001a7dda7111
+2 RIN MH:IF6979
+2 DATE 8 FEB 2014
+1 FAMS @F35@
+1 OBJE
+2 FORM jpg
+2 TITL boba jm y Luli 004
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P215_500_375.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 377 61 413 110
+2 _PHOTO_RIN MH:P216
+2 _FILESIZE 42091
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P217_36_49.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P218
+2 _FILESIZE 1429
+2 _PARENTRIN @P216@
+1 OBJE
+2 FORM jpg
+2 TITL 2008.08.19 Fernando Aguilar y Tomasita
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P244_1344_2000.jpg
+2 _POSITION 786 628 970 818
+2 _PHOTO_RIN MH:P245
+2 _FILESIZE 201657
+1 OBJE
+2 FORM jpg
+2 TITL 1963.08.16 Bobas maria Jesus y JM Matas Vilanova (9)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P260_822_1143.jpg
+2 _POSITION 606 162 722 307
+2 _PHOTO_RIN MH:P261
+2 _FILESIZE 76422
+1 OBJE
+2 FORM jpg
+2 TITL Boda Joseba Larrucea Goiri
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P450_800_508.jpg
+2 _POSITION 496 130 535 188
+2 _PHOTO_RIN MH:P454
+2 _FILESIZE 53563
+1 OBJE
+2 FORM jpg
+2 TITL esquela Fernando Aguilar Aznar
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P851_601_510.jpg
+2 _PHOTO_RIN MH:P851
+2 _FILESIZE 161507
+0 @I156@ INDI
+1 RIN MH:I156
+1 _UID E62E8167-C888-4D32-BA5C-25D01F44ABBE
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Gonzalo /Valdemoros Ibarra/
+2 GIVN Gonzalo
+2 SURN Valdemoros Ibarra
+1 SEX M
+1 BIRT
+2 _UID 44C4DFF4-F667-4637-9840-E73788FBA49C
+2 RIN MH:IF248
+2 DATE 1888
+1 DEAT
+2 _UID 7F894B5B-BC78-4FDD-A109-B701A6F63000
+2 RIN MH:IF2094
+2 DATE 2 AUG 1959
+2 PLAC El Cortijo, Logroño, España
+1 FAMS @F52@
+1 FAMC @F13@
+1 OBJE
+2 FORM pdf
+2 TITL 1934 Relacion Valdemoros-Grijalba y actividad de Gonzalo 1917-1938
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1596.pdf
+2 _DATE 1934
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _PHOTO_RIN MH:P1596
+2 _FILESIZE 5144876
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1597
+2 _PARENTRIN @P1596@
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1221_699_600.jpg
+2 _DATE 15 JAN 1951
+2 _PLACE El Cortijo
+2 _POSITION 128 5 569 594
+2 _PHOTO_RIN MH:P1221
+2 _FILESIZE 75836
+1 OBJE
+2 FORM jpg
+2 TITL 1932.01.16 esquela Francisco Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1657_572_435.jpg
+2 _DATE 16 JAN 1932
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1657
+2 _FILESIZE 49966
+1 OBJE
+2 FORM pdf
+2 TITL 1913.03.10 Excedencia de Gonzalo Valdemoros 20251026 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1776.pdf
+2 _DATE 10 MAR 1913
+2 _PLACE el Cortijo
+2 _PHOTO_RIN MH:P1776
+2 _FILESIZE 1080514
+1 OBJE
+2 FORM jpg
+2 TITL 1943 Esquela Antonia Valdemoros Torres
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2100_2645_2116.jpg
+2 _DATE 1943
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2100
+2 _FILESIZE 1330043
+0 @I157@ INDI
+1 RIN MH:I157
+1 _UID E5A9EA6C-D69F-42E8-8B9E-132FE013ECAC
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Anastasio /Valdemoros Ibarra/
+2 GIVN Anastasio
+2 SURN Valdemoros Ibarra
+1 SEX M
+1 BIRT
+2 _UID 1C5C879C-013E-4F32-BB03-56F35FB766B1
+2 RIN MH:IF249
+2 DATE 17 AUG 1904
+2 PLAC Logroño, España
+1 DEAT
+2 _UID D120CE1A-7D14-40F7-9028-2AB987646F02
+2 RIN MH:IF324
+2 DATE 15 JUN 1978
+2 PLAC Bilbao
+1 FAMS @F66@
+1 FAMC @F13@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.07 Anastasio Valdemoros y P
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P518_1518_2000.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 315 334 504 586
+2 _PHOTO_RIN MH:P523
+2 _FILESIZE 210387
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P520_188_252.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P525
+2 _FILESIZE 8758
+2 _PARENTRIN @P523@
+1 OBJE
+2 FORM jpg
+2 TITL Eustasio Valdemoros Ibarra 31.12.1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1209_454_414.jpg
+2 _DATE 31 DEC 1972
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1209
+2 _FILESIZE 44667
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Esustasio Valdemoros Ibarra 1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1225_553_495.jpg
+2 _DATE 31 DEC 1972
+2 _PHOTO_RIN MH:P1225
+2 _FILESIZE 60096
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de bautismo Anastasio Valdemoros 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1424.pdf
+2 _DATE 19 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1424
+2 _FILESIZE 1734241
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de nacimiento de Anastasio Baldemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1617.pdf
+2 _DATE 17 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1617
+2 _FILESIZE 4548695
+0 @I158@ INDI
+1 RIN MH:I158
+1 _UID B4BD0F83-C0D1-4FCC-86C2-1E239F00C52A
+1 _UPD 5 OCT 2025 13:17:31 GMT+1
+1 NAME Celestino /Valdemoros Ibarra/
+2 GIVN Celestino
+2 SURN Valdemoros Ibarra
+1 SEX M
+1 BIRT
+2 _UID 6D124DF2-94CB-43B5-9820-7E1134BA9278
+2 RIN MH:IF250
+2 DATE 1901
+2 PLAC Logroño, España
+1 DEAT
+2 _UID 59590D48-DA14-4756-95E0-C089868955E0
+2 RIN MH:IF1927
+2 DATE 14 SEP 1976
+2 PLAC Logroño, España
+1 IMMI
+2 _UID 620966735b0061ecb74f001a7dda7111
+2 RIN MH:IF7413
+2 DATE 4 MAY 1920
+2 PLAC Ellis Island
+2 SOUR @S5@
+3 RIN MH:SC224
+3 PAGE https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T4-B33Z?i=973&cc=1368704
+3 PAGE https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T4-B33Z?i=973&cc=1368704
+3 DATA
+4 TEXT elestino Valdemoros Ibarra	Male	18	04 May 1920	Ellis Island, New York City, New York, United States	Cortijo, Spain	Single	Spain, Spanish	Celestina Ibarra	Manuel Trevino	0011	Bordeaux	Niagara
+3 QUAY 0
+2 NOTE Va a Niagara desde el puerto de Bordeaux.
+3 _DESCRIPTION Y
+1 IMMI
+2 _UID 62500bdf398151ecb763107b44a29bb8
+2 RIN MH:IF7492
+2 DATE 27 FEB 1922
+2 PLAC Logroño, España
+2 SOUR @S5@
+3 RIN MH:SC227
+3 PAGE https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=1003553772
+3 PAGE https://prensahistorica.mcu.es/es/catalogo_imagenes/grupo.do?path=1003553772
+3 DATA
+4 DATE 27 FEB 1922
+3 QUAY 0
+2 NOTE NO se presenta a su reemplazo
+3 _DESCRIPTION Y
+1 OCCU labrador
+2 _UID 2E6DE8A3-122D-4A73-A609-A464F5495B1F
+2 RIN MH:IF2169
+1 FAMS @F51@
+1 FAMC @F13@
+1 OBJE
+2 FORM jpg
+2 TITL Celestino Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P94_282_307.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 30 6 251 300
+2 _PHOTO_RIN MH:P94
+2 _FILESIZE 7624
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P96_220_294.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P96
+2 _FILESIZE 9218
+2 _PARENTRIN @P94@
+1 OBJE
+2 FORM jpg
+2 TITL 1901 Celestino Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P428_1280_953.jpg
+2 _DATE 1922
+2 _PLACE Cordoba, Argentina
+2 _PHOTO_RIN MH:P432
+2 _FILESIZE 159750
+1 OBJE
+2 FORM jpg
+2 TITL 2009.08004 / EEUU
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P525_321_467.jpg
+2 _DATE 23 MAR 1913
+2 _PLACE New York
+2 _PHOTO_RIN MH:P530
+2 _FILESIZE 29326
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1165_655_680.jpg
+2 _DATE 27 FEB 1922
+2 _PHOTO_RIN MH:P1165
+2 _FILESIZE 171879
+1 OBJE
+2 FORM jpg
+2 TITL Eustasio Valdemoros Ibarra 31.12.1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1209_454_414.jpg
+2 _DATE 31 DEC 1972
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1209
+2 _FILESIZE 44667
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1221_699_600.jpg
+2 _DATE 15 JAN 1951
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1221
+2 _FILESIZE 75836
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Esustasio Valdemoros Ibarra 1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1225_553_495.jpg
+2 _DATE 31 DEC 1972
+2 _PHOTO_RIN MH:P1225
+2 _FILESIZE 60096
+1 OBJE
+2 FORM jpg
+2 TITL Foto de boda
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1406_4284_5712.jpg
+2 _POSITION 2518 1108 3367 2058
+2 _PHOTO_RIN MH:P1406
+2 _FILESIZE 2207624
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM pdf
+2 TITL 1934.12.18 - Inauguracion Apeadero El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1552.pdf
+2 _DATE 18 DEC 1934
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1552
+2 _FILESIZE 4796
+1 OBJE
+2 FORM jpg
+2 TITL 1932.12.30 Boda Basila treviño y Celestino Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1590_304_523.jpg
+2 _DATE 30 DEC 1932
+2 _PHOTO_RIN MH:P1590
+2 _FILESIZE 40666
+1 OBJE
+2 FORM pdf
+2 TITL 1934 Relacion Valdemoros-Grijalba y actividad de Gonzalo 1917-1938
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1596.pdf
+2 _DATE 1934
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1596
+2 _FILESIZE 5144876
+1 OBJE
+2 FORM jpg
+2 TITL 1943 Esquela Antonia Valdemoros Torres
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2100_2645_2116.jpg
+2 _DATE 1943
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2100
+2 _FILESIZE 1330043
+1 OBJE
+2 FORM jpg
+2 TITL 1936 La Cabaña El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2270_1247_1847.jpg
+2 _DATE 1936
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2270
+2 _FILESIZE 256107
+0 @I159@ INDI
+1 RIN MH:I159
+1 _UID 24A341EC-A893-485E-BD1B-0F9408116EDC
+1 _UPD 2 JUL 2026 20:13:53 GMT+1
+1 NAME Librado /Valdemoros Ibarra/
+2 GIVN Librado
+2 SURN Valdemoros Ibarra
+1 SEX M
+1 BIRT
+2 _UID D5197CBF-76C8-4593-AF35-A3E0DA342515
+2 RIN MH:IF251
+2 DATE 18 AUG 1891
+2 PLAC El Cortijo, Logroño, España
+1 DEAT
+2 _UID DB975FE0-6EFA-4F83-9048-8EAFA291C6BB
+2 RIN MH:IF1881
+2 TYPE WAR
+2 DATE 9 SEP 1936
+2 PLAC Logroño, España
+2 SOUR @S5@
+3 RIN MH:SC13
+3 QUAY 0
+1 OCCU Hacendado y ganadero.
+2 _UID 1F65C390-6525-4938-958D-A13E775B7BA6
+2 RIN MH:IF1884
+1 OCCU
+2 _UID BB3B2AA9-7583-4985-9D66-C7E6C04310D8
+2 RIN MH:IF1886
+1 FAMS @F117@
+1 FAMC @F13@
+1 NOTE Fue a EEUU  /New York) 18/4/1912
+1 OBJE
+2 FORM jpg
+2 TITL 1891.08.18 Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2334_1695_1941.jpg
+2 _DATE 18 AUG 1891
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 123 5 1570 1935
+2 _PHOTO_RIN MH:P2334
+2 _FILESIZE 303875
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2335_1446_1930.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P2335
+2 _FILESIZE 634191
+2 _PARENTRIN @P2334@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.08004 / EEUU
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P525_321_467.jpg
+2 _DATE 23 MAR 1913
+2 _PLACE New York
+2 _POSITION 4 24 315 438
+2 _PHOTO_RIN MH:P530
+2 _FILESIZE 29326
+1 OBJE
+2 FORM jpg
+2 TITL Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P780_699_466.jpg
+2 _PHOTO_RIN MH:P790
+2 _FILESIZE 34296
+1 OBJE
+2 FORM png
+2 TITL Enrique Valdemoros a New York
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P822_1024_489.png
+2 _DATE 23 MAR 1913
+2 _PLACE New York
+2 _POSITION 334 -43 692 435
+2 _PHOTO_RIN MH:P822
+2 _FILESIZE 288379
+1 OBJE
+2 FORM jpg
+2 TITL 1913 librao valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1467_410_566.jpg
+2 _DATE 21 APR 1913
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1467
+2 _FILESIZE 70890
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _POSITION 71 5 352 380
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM pdf
+2 TITL 1934 Relacion Valdemoros-Grijalba y actividad de Gonzalo 1917-1938
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1596.pdf
+2 _DATE 1934
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1596
+2 _FILESIZE 5144876
+1 OBJE
+2 FORM jpeg
+2 TITL 1936 entrerramiento de Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2396_895_1320.jpeg
+2 _DATE 10 SEP 1936
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2396
+2 _FILESIZE 361767
+0 @I160@ INDI
+1 RIN MH:I160
+1 _UID 4D1FC31C-CDFA-4BA4-BAF2-0A823F31296C
+1 _UPD 30 MAY 2023 12:39:46 GMT+1
+1 NAME Eustasio /Valdemoros Ibarra/
+2 GIVN Eustasio
+2 SURN Valdemoros Ibarra
+1 SEX M
+1 BIRT
+2 _UID D05F6E26-E967-4116-B1D7-0FB04FC80C9C
+2 RIN MH:IF252
+2 DATE 1896
+1 DEAT
+2 _UID 6475d15c4d5cd1edb7b9001a7dda7111
+2 RIN MH:IF7626
+2 DATE 31 DEC 1972
+1 FAMS @F54@
+1 FAMC @F13@
+1 OBJE
+2 FORM jpg
+2 TITL Eustasio  Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P92_315_316.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 43 5 271 310
+2 _PHOTO_RIN MH:P92
+2 _FILESIZE 8696
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P93_228_305.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P93
+2 _FILESIZE 10613
+2 _PARENTRIN @P92@
+1 OBJE
+2 FORM jpg
+2 TITL Eustasio Valdemoros Ibarra 31.12.1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1209_454_414.jpg
+2 _DATE 31 DEC 1972
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1209
+2 _FILESIZE 44667
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1221_699_600.jpg
+2 _DATE 15 JAN 1951
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1221
+2 _FILESIZE 75836
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Esustasio Valdemoros Ibarra 1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1225_553_495.jpg
+2 _DATE 31 DEC 1972
+2 _PHOTO_RIN MH:P1225
+2 _FILESIZE 60096
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+0 @I161@ INDI
+1 RIN MH:I161
+1 _UID 67C9F248-AB1D-4D07-9149-4457C895E557
+1 _UPD 5 OCT 2025 13:17:31 GMT+1
+1 NAME Basilia /Treviño Valdemoros/
+2 GIVN Basilia
+2 SURN Treviño Valdemoros
+2 _MARNM Valdemoros
+1 SEX F
+1 BIRT
+2 _UID 7D6860D7-D24B-4B40-B226-F12E6FCDEE1D
+2 RIN MH:IF253
+2 DATE 1902
+1 DEAT
+2 _UID 5e74c6e4ff77c1eaa09c001a7dda7111
+2 RIN MH:IF6978
+2 DATE 16 MAR 1980
+2 PLAC El Cortijo, Logroño, España
+1 FAMS @F51@
+1 FAMC @F53@
+1 OBJE
+2 FORM jpg
+2 TITL Foto de boda
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1406_4284_5712.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 1110 1281 1753 2137
+2 _PHOTO_RIN MH:P1406
+2 _FILESIZE 2207624
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1407_691_856.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1407
+2 _FILESIZE 68382
+2 _PARENTRIN @P1406@
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM jpg
+2 TITL 1932.12.30 Boda Basila treviño y Celestino Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1590_304_523.jpg
+2 _DATE 30 DEC 1932
+2 _PHOTO_RIN MH:P1590
+2 _FILESIZE 40666
+1 OBJE
+2 FORM jpg
+2 TITL 1932.01.16 esquela Francisco Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1657_572_435.jpg
+2 _DATE 16 JAN 1932
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1657
+2 _FILESIZE 49966
+1 OBJE
+2 FORM jpg
+2 TITL 1943 Esquela Antonia Valdemoros Torres
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2100_2645_2116.jpg
+2 _DATE 1943
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2100
+2 _FILESIZE 1330043
+0 @I162@ INDI
+1 RIN MH:I162
+1 _UID DFA81309-AF1B-4AE1-82CF-4A1E59887DC9
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Rosario /Treviño Valdemoros/
+2 GIVN Rosario
+2 SURN Treviño Valdemoros
+1 SEX F
+1 BIRT
+2 _UID CF605B94-88BE-4901-8D55-3C3F51E05428
+2 RIN MH:IF254
+2 DATE 1890
+1 DEAT
+2 _UID 5e012ed39b98d1eaa070107b44a29bb8
+2 RIN MH:IF6962
+2 DATE 28 MAR 1971
+2 PLAC El Cortijo
+1 FAMS @F52@
+1 FAMC @F53@
+1 OBJE
+2 FORM jpg
+2 TITL 1943 Esquela Antonia Valdemoros Torres
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2100_2645_2116.jpg
+2 _DATE 1943
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 533 5 2111 2110
+2 _PHOTO_RIN MH:P2100
+2 _FILESIZE 1330043
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2103_1578_2105.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P2103
+2 _FILESIZE 562961
+2 _PARENTRIN @P2100@
+1 OBJE
+2 FORM jpg
+2 TITL esquela rosario Treviño Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1232_852_494.jpg
+2 _DATE 28 MAR 1971
+2 _PLACE El Cortijo
+2 _POSITION 244 5 606 488
+2 _PHOTO_RIN MH:P1232
+2 _FILESIZE 80873
+1 OBJE
+2 FORM pdf
+2 TITL 1934.12.18 - Inauguracion Apeadero El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1552.pdf
+2 _DATE 18 DEC 1934
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1552
+2 _FILESIZE 4796
+1 OBJE
+2 FORM jpg
+2 TITL 1932.01.16 esquela Francisco Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1657_572_435.jpg
+2 _DATE 16 JAN 1932
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1657
+2 _FILESIZE 49966
+1 OBJE
+2 FORM png
+2 TITL nacimiento
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1827_512_512.png
+2 _POSITION 68 5 443 506
+2 _PHOTO_RIN MH:P1827
+2 _FILESIZE 31830
+0 @I164@ INDI
+1 RIN MH:I164
+1 _UID C32B890C-1E06-4F92-B776-ABA64D9724CF
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Enrique /Valdemoros Ybarra/
+2 GIVN Enrique
+2 SURN Valdemoros Ybarra
+1 SEX M
+1 BIRT
+2 _UID C8BB3986-5177-441E-BD85-7E433A8EE927
+2 RIN MH:IF258
+2 DATE 1894
+2 PLAC El Cortijo, Logroño, España
+1 DEAT
+2 _UID 872F970D-50CF-4906-9C95-FBF7B434A386
+2 RIN MH:IF3018
+2 DATE 6 MAR 1956
+2 PLAC el Cortijo, Logroño, España
+1 EMIG
+2 _UID 753D9D71-B0B6-4E10-9E44-6288F16D6606
+2 RIN MH:IF6942
+2 DATE 23 MAR 1913
+2 PLAC Ellis Island National Monument (historical), Nueva York, USA
+2 NOTE Emigracion A USA
+2 OBJE
+3 FORM jpg
+3 TITL ScreenShot020
+3 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2027\Database\Principal MatasLarrucea 2026_05_Photos\P781_689_516.jpg
+3 _DATE 23 MAR 1913
+3 _PLACE NEW York
+3 _PHOTO_RIN MH:P791
+3 _FILESIZE 79481
+1 FAMS @F142@
+1 FAMC @F13@
+1 NOTE Fue socio del abuelo en el taller "Larucea" de Logroño de coches. Al ir Genaro a la guerra le regalo el taller.
+1 OBJE
+2 FORM jpg
+2 TITL Enrique Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P97_294_330.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 27 5 266 324
+2 _PHOTO_RIN MH:P97
+2 _FILESIZE 9551
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2109_239_319.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P2109
+2 _FILESIZE 12557
+2 _PARENTRIN @P97@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.08004 / EEUU
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P525_321_467.jpg
+2 _DATE 23 MAR 1913
+2 _PLACE New York
+2 _PHOTO_RIN MH:P530
+2 _FILESIZE 29326
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+1 OBJE
+2 FORM png
+2 TITL Enrique Valdemoros a New York
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P822_1024_489.png
+2 _DATE 23 MAR 1913
+2 _PLACE New York
+2 _PHOTO_RIN MH:P822
+2 _FILESIZE 288379
+1 OBJE
+2 FORM jpg
+2 TITL ScreenShot020
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P781_689_516.jpg
+2 _DATE 23 MAR 1913
+2 _PLACE NEW York
+2 _PHOTO_RIN MH:P791
+2 _FILESIZE 79481
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Celestina Ibarra Gonzalez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1221_699_600.jpg
+2 _DATE 15 JAN 1951
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1221
+2 _FILESIZE 75836
+1 OBJE
+2 FORM jpg
+2 TITL Enrique Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1301_543_508.jpg
+2 _DATE 27 APR 1922
+2 _PLACE Aldea
+2 _PHOTO_RIN MH:P1301
+2 _FILESIZE 100769
+1 OBJE
+2 FORM jpg
+2 TITL 1922 Enrique Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1468_373_550.jpg
+2 _DATE 23 MAR 1922
+2 _PLACE El Cortijo, Logroño, España
+2 _PHOTO_RIN MH:P1468
+2 _FILESIZE 86239
+1 OBJE
+2 FORM pdf
+2 TITL 1934.04.01 Jurado Mixto Jenaro Larrucea
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1760.pdf
+2 _DATE 1 APR 1934
+2 _PHOTO_RIN MH:P1760
+2 _FILESIZE 3559
+1 OBJE
+2 FORM pdf
+2 TITL 1921 Cruz Valdemoros Treviño (2)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2106.pdf
+2 _DATE 1921
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2106
+2 _FILESIZE 383241
+1 OBJE
+2 FORM jpg
+2 TITL Enrique Valdemoros (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2110_4032_3024.jpg
+2 _PHOTO_RIN MH:P2110
+2 _FILESIZE 1768318
+1 OBJE
+2 FORM pdf
+2 TITL Enrique Valdemoros (2)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2111.pdf
+2 _PLACE Utah
+2 _PHOTO_RIN MH:P2111
+2 _FILESIZE 224413
+0 @I165@ INDI
+1 RIN MH:I165
+1 _UID 239E164C-556E-444E-9E10-6D5C6696BFC6
+1 _UPD 30 MAY 2023 12:39:46 GMT+1
+1 NAME Leonisa //
+2 GIVN Leonisa
+2 _MARNM Diaz Matute
+1 SEX F
+1 BIRT
+2 _UID EF746B41-5F38-4D14-B296-224108D9639D
+2 RIN MH:IF259
+1 DEAT
+2 _UID 646345fefdb2a1edb7b8001a7dda7111
+2 RIN MH:IF7602
+2 DATE AFT 1972
+1 FAMS @F54@
+1 OBJE
+2 FORM jpg
+2 TITL Leo mujer de Eustasio Valdemros EEUU
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P99_256_289.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 23 5 231 283
+2 _PHOTO_RIN MH:P99
+2 _FILESIZE 5250
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P100_208_278.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P100
+2 _FILESIZE 7568
+2 _PARENTRIN @P99@
+1 OBJE
+2 FORM jpg
+2 TITL Eustasio Valdemoros Ibarra 31.12.1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1209_454_414.jpg
+2 _DATE 31 DEC 1972
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1209
+2 _FILESIZE 44667
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+0 @I196@ INDI
+1 RIN MH:I196
+1 _UID B924CF25-A4F2-4289-B8D1-DDAB51EE774D
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Pilar //
+2 GIVN Pilar
+2 _MARNM Villada
+1 SEX F
+1 BIRT
+2 _UID EB149A45-5560-49EF-BC42-AF3F7EE806F6
+2 RIN MH:IF325
+1 FAMS @F66@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.07 Anastasio Valdemoros y P
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P518_1518_2000.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 959 662 1146 910
+2 _PHOTO_RIN MH:P523
+2 _FILESIZE 210387
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P521_186_248.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P526
+2 _FILESIZE 8729
+2 _PARENTRIN @P523@
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+0 @I197@ INDI
+1 RIN MH:I197
+1 _UID 7D861A4C-DA9E-43DF-A654-257E7A65BB0E
+1 _UPD 1 MAR 2009 09:06:53 GMT+1
+1 NAME Jose Luis /Valdemoros/
+2 GIVN Jose Luis
+2 SURN Valdemoros
+1 SEX M
+1 BIRT
+2 _UID A99D4986-160E-47A7-8AC8-687BE6EE6845
+2 RIN MH:IF326
+1 FAMC @F66@
+0 @I198@ INDI
+1 RIN MH:I198
+1 _UID FB5C16C8-4A9E-41AD-A245-C6A4039DEBF1
+1 _UPD 1 FEB 2009 21:14:15 GMT+1
+1 NAME Encarnación /Valdemoros/
+2 GIVN Encarnación
+2 SURN Valdemoros
+1 SEX F
+1 BIRT
+2 _UID CB052411-C309-40E9-9E02-DAB945034821
+2 RIN MH:IF327
+1 FAMC @F66@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.07 Anastasio Valdemoros y P
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P518_1518_2000.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 468 707 646 943
+2 _PHOTO_RIN MH:P523
+2 _FILESIZE 210387
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P522_178_236.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P527
+2 _FILESIZE 8563
+2 _PARENTRIN @P523@
+0 @I342@ INDI
+1 RIN MH:I342
+1 _UID 9A4D3823-EA5E-4581-9EC5-D72B64D9B900
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Angel /Valdemoros Treviño/
+2 GIVN Angel
+2 SURN Valdemoros Treviño
+1 SEX M
+1 BIRT
+2 _UID 8E30DF35-5F26-450F-8FC1-E608CBBD1581
+2 RIN MH:IF1502
+1 FAMS @F109@
+1 FAMC @F51@
+1 OBJE
+2 FORM jpg
+2 TITL 1946 El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P420_2000_1350.jpg
+2 _DATE 28 SEP 1946
+2 _PLACE Logroño, España
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 819 481 983 700
+2 _PHOTO_RIN MH:P424
+2 _FILESIZE 331510
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P427_164_219.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P431
+2 _FILESIZE 7704
+2 _PARENTRIN @P424@
+1 OBJE
+2 FORM jpg
+2 TITL 1936 La Cabaña El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2270_1247_1847.jpg
+2 _DATE 1936
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2270
+2 _FILESIZE 256107
+0 @I343@ INDI
+1 RIN MH:I343
+1 _UID 7038BA25-EAB8-4A70-A361-2D8B1F55FDC3
+1 _UPD 29 APR 2026 08:42:25 GMT+1
+1 NAME Lidia /Grijalba Saenz/
+2 GIVN Lidia
+2 SURN Grijalba Saenz
+2 _MARNM Valdemoros
+1 SEX F
+1 BIRT
+2 _UID 7C7A8127-2164-4E8A-A9AF-CD08FCF0E69C
+2 RIN MH:IF1503
+2 DATE 4 OCT 1934
+1 DEAT
+2 _UID FB6E85F5-764F-402D-83B0-C4990BCB9A81
+2 RIN MH:IF1504
+2 DATE 10 MAY 2022
+1 FAMS @F109@
+0 @I349@ INDI
+1 RIN MH:I349
+1 _UID EF1CDE6D-8162-4E23-93F6-8A62A47A2F66
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Antonio /Valdemoros Treviño/
+2 GIVN Antonio
+2 SURN Valdemoros Treviño
+1 SEX M
+1 BIRT
+2 _UID 83E75994-53F0-4BF3-9C6B-8BD58FBA2C65
+2 RIN MH:IF1511
+1 DEAT
+2 _UID 6479BA53-E155-47B8-893A-B3D31FF0E22D
+2 RIN MH:IF1512
+1 FAMS @F112@
+1 FAMC @F52@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.01.05 El Cortijo (3)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P396_600_450.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 339 26 428 144
+2 _PHOTO_RIN MH:P400
+2 _FILESIZE 69071
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P399_88_118.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P403
+2 _FILESIZE 4866
+2 _PARENTRIN @P400@
+1 OBJE
+2 FORM jpg
+2 TITL esquela rosario Treviño Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1232_852_494.jpg
+2 _DATE 28 MAR 1971
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1232
+2 _FILESIZE 80873
+1 OBJE
+2 FORM pdf
+2 TITL 1844.10.7 Compra Manuel Treviño
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1478.pdf
+2 _DATE 7 OCT 1844
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1478
+2 _FILESIZE 2989864
+1 OBJE
+2 FORM jpg
+2 TITL 2014.05.10 Esquela de Otilia
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1614_711_718.jpg
+2 _DATE 10 MAY 2014
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1614
+2 _FILESIZE 99558
+1 OBJE
+2 FORM jpg
+2 TITL 2011.12.26 Esquela Fernando Treviñoa Llach
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1615_685_625.jpg
+2 _DATE 26 DEC 2011
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1615
+2 _FILESIZE 89510
+0 @I350@ INDI
+1 RIN MH:I350
+1 _UID E56EEFD5-30FC-4520-8E51-8306600A7E27
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Francisca /Treviño LLach/
+2 GIVN Francisca
+2 SURN Treviño LLach
+1 SEX F
+1 BIRT
+2 _UID 177574C3-5D20-4DE1-96DE-9B78726AC7E2
+2 RIN MH:IF1513
+2 DATE 1922
+2 PLAC El Cortijo
+1 DEAT
+2 _UID 25AAB5E7-30E8-4DE1-8A3B-804AF417BC58
+2 RIN MH:IF1514
+1 FAMS @F112@
+1 OBJE
+2 FORM jpg
+2 TITL 2009.01.05 El Cortijo (3)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P396_600_450.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 223 41 311 158
+2 _PHOTO_RIN MH:P400
+2 _FILESIZE 69071
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P398_88_117.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P402
+2 _FILESIZE 4772
+2 _PARENTRIN @P400@
+1 OBJE
+2 FORM jpg
+2 TITL 1946 El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P420_2000_1350.jpg
+2 _DATE 28 SEP 1946
+2 _PLACE Logroño, España
+2 _POSITION 963 354 1158 573
+2 _PHOTO_RIN MH:P424
+2 _FILESIZE 331510
+1 OBJE
+2 FORM jpg
+2 TITL esquela rosario Treviño Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1232_852_494.jpg
+2 _DATE 28 MAR 1971
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1232
+2 _FILESIZE 80873
+1 OBJE
+2 FORM jpg
+2 TITL 2014.05.10 Esquela de Otilia
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1614_711_718.jpg
+2 _DATE 10 MAY 2014
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1614
+2 _FILESIZE 99558
+1 OBJE
+2 FORM jpg
+2 TITL 2011.12.26 Esquela Fernando Treviñoa Llach
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1615_685_625.jpg
+2 _DATE 26 DEC 2011
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1615
+2 _FILESIZE 89510
+0 @I352@ INDI
+1 RIN MH:I352
+1 _UID B78724AF-32AB-459F-858B-2A0D4DE66259
+1 _UPD 28 SEP 2025 12:26:43 GMT+1
+1 NAME Cruz /Valdemoros Treviño/
+2 GIVN Cruz
+2 SURN Valdemoros Treviño
+1 SEX M
+1 BIRT
+2 _UID B4D26C0B-525E-4213-80CB-7CEC0BF1388D
+2 RIN MH:IF1516
+2 DATE 5 MAY 1918
+2 PLAC EL Cortijo
+1 DEAT
+2 _UID 94EFFF56-F5BC-4E71-AF4E-26E4C32CE1F3
+2 RIN MH:IF1517
+1 FAMS @F113@
+1 FAMC @F52@
+1 OBJE
+2 FORM jpg
+2 TITL esquela rosario Treviño Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1232_852_494.jpg
+2 _DATE 28 MAR 1971
+2 _PLACE El Cortijo
+2 _POSITION 244 5 606 488
+2 _PHOTO_RIN MH:P1232
+2 _FILESIZE 80873
+1 OBJE
+2 FORM jpg
+2 TITL 1918.05.05 Nace Cruz Valdemoros Treviño
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1515_269_273.jpg
+2 _DATE 5 MAY 1918
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1515
+2 _FILESIZE 29711
+1 OBJE
+2 FORM jpg
+2 TITL 1944.11.05 Matrimonio Cruz valdemoros con Carmen Grijalba
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1522_275_199.jpg
+2 _DATE 5 NOV 1944
+2 _PLACE El Cortijo
+2 _POSITION 67 5 207 193
+2 _PHOTO_RIN MH:P1522
+2 _FILESIZE 14821
+1 OBJE
+2 FORM pdf
+2 TITL 1921 Cruz Valdemoros Treviño (2)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2106.pdf
+2 _DATE 1921
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2106
+2 _FILESIZE 383241
+0 @I353@ INDI
+1 RIN MH:I353
+1 _UID F90EEFEF-809F-4319-BB30-31341413CFA7
+1 _UPD 28 SEP 2025 12:26:43 GMT+1
+1 NAME Carmen /Grijalba del Valle/
+2 GIVN Carmen
+2 SURN Grijalba del Valle
+2 _MARNM Valdemoros
+1 SEX F
+1 BIRT
+2 _UID E87BD711-02EE-4375-B66B-AF3C6129ED33
+2 RIN MH:IF1518
+1 DEAT
+2 _UID 1093290A-CD9F-42AD-988A-D138498A20E9
+2 RIN MH:IF1519
+1 FAMS @F113@
+1 OBJE
+2 FORM jpg
+2 TITL boba jm y Luli 004
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P215_500_375.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 23 145 87 231
+2 _PHOTO_RIN MH:P216
+2 _FILESIZE 42091
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P218_64_86.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P219
+2 _FILESIZE 2494
+2 _PARENTRIN @P216@
+1 OBJE
+2 FORM jpg
+2 TITL esquela rosario Treviño Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1232_852_494.jpg
+2 _DATE 28 MAR 1971
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1232
+2 _FILESIZE 80873
+1 OBJE
+2 FORM jpg
+2 TITL 1944.11.05 Matrimonio Cruz valdemoros con Carmen Grijalba
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1522_275_199.jpg
+2 _DATE 5 NOV 1944
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1522
+2 _FILESIZE 14821
+0 @I361@ INDI
+1 RIN MH:I361
+1 _UID CC05F0FB-0D7E-47AF-B7BA-12659B7511D0
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Benigna /Saenz  Martinez/
+2 GIVN Benigna
+2 SURN Saenz  Martinez
+1 SEX F
+1 BIRT
+2 _UID CEED8AC5-D171-4975-ABF6-7591BFD8697E
+2 RIN MH:IF1858
+1 DEAT
+2 _UID C11E428B-E86D-45F8-8B95-C8424C3B0AD5
+2 RIN MH:IF1880
+1 FAMS @F117@
+1 OBJE
+2 FORM jpeg
+2 TITL 1936 entrerramiento de Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2396_895_1320.jpeg
+2 _DATE 10 SEP 1936
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 5 70 889 1249
+2 _PHOTO_RIN MH:P2396
+2 _FILESIZE 361767
+1 OBJE
+2 FORM jpeg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2397_884_1179.jpeg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P2397
+2 _FILESIZE 345786
+2 _PARENTRIN @P2396@
+1 OBJE
+2 FORM jpg
+2 TITL Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P780_699_466.jpg
+2 _POSITION 178 5 519 460
+2 _PHOTO_RIN MH:P790
+2 _FILESIZE 34296
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Esustasio Valdemoros Ibarra 1972
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1225_553_495.jpg
+2 _DATE 31 DEC 1972
+2 _POSITION 95 5 457 489
+2 _PHOTO_RIN MH:P1225
+2 _FILESIZE 60096
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _POSITION 71 5 352 380
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+1 OBJE
+2 FORM jpg
+2 TITL 1947.01.02 Esquela Facundo Saenz Martinez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1719_584_522.jpg
+2 _DATE 2 JAN 1947
+2 _PLACE el Cortijo
+2 _POSITION 100 5 483 516
+2 _PHOTO_RIN MH:P1719
+2 _FILESIZE 59801
+1 OBJE
+2 FORM jpg
+2 TITL 1944.03.01 Matrimonio Policarpo Santiago y Benigna Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1726_278_91.jpg
+2 _DATE 1 MAR 1944
+2 _PLACE camallera, España
+2 _POSITION 109 5 168 85
+2 _PHOTO_RIN MH:P1726
+2 _FILESIZE 8120
+1 OBJE
+2 FORM jpg
+2 TITL 1951.01.18 Esquela Alejandra Martinez Blanco
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1728_237_445.jpg
+2 _DATE 18 JAN 1951
+2 _PLACE el Cortijo
+2 _POSITION 5 71 231 372
+2 _PHOTO_RIN MH:P1728
+2 _FILESIZE 24597
+0 @I362@ INDI
+1 RIN MH:I362
+1 _UID A2A0DD5C-6D0E-40E9-8634-755874118577
+1 _UPD 16 JUN 2026 17:53:35 GMT+1
+1 NAME Librado /Valdemoros Saenz/
+2 GIVN Librado
+2 SURN Valdemoros Saenz
+1 SEX M
+1 BIRT
+2 _UID 337AFBD0-61A4-48D9-A158-FD4A68D00AE6
+2 RIN MH:IF1859
+1 DEAT
+2 _UID 43ABF7F5-4BD4-4694-BEC3-A3BB6883AE77
+2 RIN MH:IF1860
+1 BURI
+2 _UID 2816E157-6C14-4656-8865-425564B51682
+2 RIN MH:IF1897
+1 FAMS @F126@
+1 FAMC @F117@
+1 OBJE
+2 FORM jpg
+2 TITL Librao Valdemoros hermano de Gloria con su mujer Saez en Argentina / Librao Valdemros hermano de Gloria con su mujer Saez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P351_894_1340.jpg
+2 _POSITION 421 301 570 500
+2 _PHOTO_RIN MH:P354
+2 _FILESIZE 71504
+1 OBJE
+2 FORM jpg
+2 TITL 1912 Librado Valdemoros Saenz
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2294_3572_3561.jpg
+2 _DATE 1912
+2 _PLACE New York
+2 _PHOTO_RIN MH:P2294
+2 _FILESIZE 1617590
+0 @I363@ INDI
+1 RIN MH:I363
+1 _UID 050A188A-706C-47A1-857B-BF3EC59C4BA5
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Invencion Gloria /Valdemoros Saenz/
+2 GIVN Invencion Gloria
+2 SURN Valdemoros Saenz
+1 SEX F
+1 BIRT
+2 _UID 7647BF9A-7970-46EE-B6B4-46D7AD024FD8
+2 RIN MH:IF1861
+2 DATE 3 AUG 1920
+2 PLAC logroño, España
+1 DEAT
+2 _UID 63145b98bde7a1edb787001a7dda7111
+2 RIN MH:IF7514
+2 DATE 28 APR 2014
+2 PLAC Logroño
+1 FAMS @F118@
+1 FAMC @F117@
+1 SOUR @S5@
+2 RIN MH:SC229
+2 PAGE https://esquelas.larioja.com/necrologicas/dona-gloria-valdemoros-saenz-156095.html
+2 PAGE https://esquelas.larioja.com/necrologicas/dona-gloria-valdemoros-saenz-156095.html
+2 DATA
+3 TEXT Esquelas
+4 CONT Doña Gloria Valdemoros Sáenz
+4 CONT Nalda, 28/04/2014
+4 CONT Doña Gloria Valdemoros Sáenz
+4 CONT
+4 CONT Viuda de Pedro Sáenz Vélez
+4 CONT
+4 CONT Falleció en el día de ayer, a los 91 años de edad, habiendo recibido los Santos Sacramentos.
+4 CONT
+4 CONT R.I.P.
+4 CONT
+4 CONT Sus hijas: Gloria y Begoña; hijos políticos: Juan Pedro Moreno (+) y Miguel Ángel Nalda; nietos: Natalia y Alfonso, María y Carlos, Sara y Miguel, Eva e Israel, Marta y Luis, y Álvaro; bisnietos:
+4 CONC  David, Clara, Diego, Micaela, Marcos, Paula, Claudia y Lucía; hermano: don Librado (+); hermanos políticos: Begoña Lach (+), Agapita Sáenz (+) y Feliciano Urízar (+); sobrinos, primos y demás f
+4 CONC amilia,
+4 CONT
+4 CONT Participan a sus amistades tan sensible pérdida y les ruegan una oración por el eterno descanso de su alma y la asistencia a los actos que a continuación se detallan, por cuyo favor les quedarán m
+4 CONC uy agradecidos.
+4 CONT
+4 CONT Logroño, 28 de abril de 2014
+4 CONT
+4 CONT Conducción: En la intimidad. Funeral y misa: LUNES, a las SEIS Y MEDIA de la tarde, en la iglesia parroquial de Santa Margarita, de El Cortijo. La familia recibe en la sala número 6 del Tanatorio M�
+4 CONC �mora Pastrana, de Logroño, HOY, LUNES, hasta las DOS de la tarde. Para notas de condolencia: www.memora.es
+2 QUAY 0
+1 OBJE
+2 FORM jpg
+2 TITL 2007.08.26 El Cortijo 019
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P264_600_800.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 232 69 332 201
+2 _PHOTO_RIN MH:P265
+2 _FILESIZE 46705
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P266_100_132.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P267
+2 _FILESIZE 4296
+2 _PARENTRIN @P265@
+1 OBJE
+2 FORM jpg
+2 TITL Pedro y Gloria l
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P285_905_586.jpg
+2 _POSITION 74 275 212 442
+2 _PHOTO_RIN MH:P286
+2 _FILESIZE 66667
+1 OBJE
+2 FORM jpg
+2 TITL Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P780_699_466.jpg
+2 _PHOTO_RIN MH:P790
+2 _FILESIZE 34296
+1 OBJE
+2 FORM png
+2 TITL esquela Gloria Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1385_706_694.png
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1385
+2 _FILESIZE 43937
+1 OBJE
+2 FORM jpeg
+2 TITL 1936 entrerramiento de Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2396_895_1320.jpeg
+2 _DATE 10 SEP 1936
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2396
+2 _FILESIZE 361767
+0 @I364@ INDI
+1 RIN MH:I364
+1 _UID 2B78DE5A-86CC-4F8B-88AC-E396FFCCDEAF
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Pedro /Saenz Velez/
+2 GIVN Pedro
+2 SURN Saenz Velez
+1 SEX M
+1 BIRT
+2 _UID 27B4E8AA-13CE-492D-A480-F767414416DF
+2 RIN MH:IF1862
+2 DATE 17 SEP 1921
+1 DEAT
+2 _UID 73A9E781-C577-4452-8D8B-50359B94BCDE
+2 RIN MH:IF1882
+2 DATE 6 SEP 2000
+1 FAMS @F118@
+1 OBJE
+2 FORM jpg
+2 TITL Pedro y Gloria l
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P285_905_586.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 489 257 655 479
+2 _PHOTO_RIN MH:P286
+2 _FILESIZE 66667
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P287_166_222.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P288
+2 _FILESIZE 9100
+2 _PARENTRIN @P286@
+1 OBJE
+2 FORM png
+2 TITL esquela Gloria Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1385_706_694.png
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1385
+2 _FILESIZE 43937
+0 @I365@ INDI
+1 RIN MH:I365
+1 _UID A9EF9139-6D72-4FF5-8FCB-8876D0B1B271
+1 _UPD 16 OCT 2025 17:15:25 GMT+1
+1 NAME Julio /Valdemoros/
+2 GIVN Julio
+2 SURN Valdemoros
+1 SEX M
+1 BIRT
+2 _UID 5C053807-E046-4169-9986-8F6C7A2CCDBB
+2 RIN MH:IF1863
+2 DATE 1923
+2 PLAC el Cortijo
+1 DEAT
+2 _UID 1862F8F4-5D73-464A-92DD-D13BF6F661B3
+2 RIN MH:IF1864
+2 DATE 18 OCT 1927
+2 PLAC El Cortijo
+1 FAMC @F117@
+1 OBJE
+2 FORM jpg
+2 TITL Hermano de Gloria
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P261_480_807.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 162 184 322 397
+2 _PHOTO_RIN MH:P262
+2 _FILESIZE 34739
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P263_160_213.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P264
+2 _FILESIZE 7067
+2 _PARENTRIN @P262@
+1 OBJE
+2 FORM jpg
+2 TITL 1927.10.18 Esquelas Julio Valdemoros
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1694_333_264.jpg
+2 _DATE 18 OCT 1927
+2 _PLACE el Cortijo
+2 _PHOTO_RIN MH:P1694
+2 _FILESIZE 14856
+0 @I376@ INDI
+1 RIN MH:I376
+1 _UID B1385B45-C0E7-440F-A7A9-F663D370D2AF
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Begoña /Treviño/
+2 GIVN Begoña
+2 SURN Treviño
+1 SEX F
+1 BIRT
+2 _UID 0F5F942F-659E-4BDB-A4F8-B0932348A2D0
+2 RIN MH:IF1883
+1 DEAT
+2 _UID 08C7B448-6428-4C6B-9FE2-7CEA989FF795
+2 RIN MH:IF1898
+1 FAMS @F126@
+1 OBJE
+2 FORM jpg
+2 TITL Librao Valdemoros hermano de Gloria con su mujer Saez en Argentina / Librao Valdemros hermano de Gloria con su mujer Saez
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P351_894_1340.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 223 309 376 514
+2 _PHOTO_RIN MH:P354
+2 _FILESIZE 71504
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P354_152_205.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P357
+2 _FILESIZE 5941
+2 _PARENTRIN @P354@
+0 @I407@ INDI
+1 RIN MH:I407
+1 _UID DFE48D91-473F-4A5A-AA49-EB44EE053B37
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Vicenta /Mendezona Cendagortagalarza/
+2 GIVN Vicenta
+2 SURN Mendezona Cendagortagalarza
+1 SEX F
+1 BIRT
+2 _UID EA004421-1744-454A-8723-0D35D644DDD3
+2 RIN MH:IF2170
+2 DATE 1908
+1 DEAT
+2 _UID 5445F4FF-C24F-44E7-ADB1-FA8DE9CC4036
+2 RIN MH:IF2171
+2 DATE 1 APR 2009
+2 PLAC Logroño
+1 FAMS @F142@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+1 OBJE
+2 FORM jpg
+2 TITL 1952 Aniversario esquela Celestina Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1534_424_386.jpg
+2 _DATE 15 JAN 1952
+2 _PLACE El Cortijo
+2 _POSITION 71 5 352 380
+2 _PHOTO_RIN MH:P1534
+2 _FILESIZE 37057
+0 @I408@ INDI
+1 RIN MH:I408
+1 _UID E4ED318E-CB3F-46FC-91FF-01083953FCC8
+1 _UPD 25 MAY 2009 19:19:04 GMT+1
+1 NAME Purificación /Valdemoros Mendezona/
+2 GIVN Purificación
+2 SURN Valdemoros Mendezona
+1 SEX F
+1 BIRT
+2 _UID F733BA4E-FF17-47B8-8474-F89E0F6037D9
+2 RIN MH:IF2172
+1 FAMC @F142@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _POSITION 198 6 422 304
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+0 @I409@ INDI
+1 RIN MH:I409
+1 _UID 83423E13-F748-4552-A768-884249E8B435
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Enrique /Valdemoros Mendoza/
+2 GIVN Enrique
+2 SURN Valdemoros Mendoza
+1 SEX M
+1 BIRT
+2 _UID 5A891A82-AB1A-45EE-83C9-AF1810BA087F
+2 RIN MH:IF2173
+1 FAMS @F276@
+1 FAMC @F142@
+1 OBJE
+2 FORM pdf
+2 TITL 1921 Cruz Valdemoros Treviño (2)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2106.pdf
+2 _DATE 1921
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _PHOTO_RIN MH:P2106
+2 _FILESIZE 383241
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P2107
+2 _PARENTRIN @P2106@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _POSITION 198 6 422 304
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+0 @I410@ INDI
+1 RIN MH:I410
+1 _UID 4DA3B68E-017F-4FED-BD95-075253678BCD
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Lidia /Valdemoros/
+2 GIVN Lidia
+2 SURN Valdemoros
+1 SEX F
+1 BIRT
+2 _UID 51555492-E4EB-4772-908F-9253E3D0CB13
+2 RIN MH:IF2174
+1 FAMS @F277@
+1 FAMC @F142@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _POSITION 198 6 422 304
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+0 @I411@ INDI
+1 RIN MH:I411
+1 _UID 6A1AF8DA-7F0C-45A0-AEB5-426199D2D2FF
+1 _UPD 25 MAY 2009 19:20:00 GMT+1
+1 NAME José /Valdemoros/
+2 GIVN José
+2 SURN Valdemoros
+1 SEX M
+1 BIRT
+2 _UID F66F5471-63C8-46F5-8A0B-F4F9E080168A
+2 RIN MH:IF2175
+1 FAMC @F142@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _POSITION 198 6 422 304
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+0 @I412@ INDI
+1 RIN MH:I412
+1 _UID 959177A1-098D-4460-8714-0E4170EA0B2F
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Maria Asunción /Valdemoros/
+2 GIVN Maria Asunción
+2 SURN Valdemoros
+1 SEX F
+1 BIRT
+2 _UID 2DB94D70-DC22-4883-B5AD-04341F900335
+2 RIN MH:IF2176
+1 FAMS @F284@
+1 FAMC @F142@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _POSITION 198 6 422 304
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+0 @I497@ INDI
+1 RIN MH:I497
+1 _UID B6052193-1298-4E1B-BCE8-811BC7F9AF5A
+1 _UPD 10 NOV 2025 18:51:40 GMT+1
+1 NAME Gregorio /Ibarra Treviño/
+2 GIVN Gregorio
+2 SURN Ibarra Treviño
+1 SEX M
+1 BIRT
+2 _UID 5C0E35BC-41B4-4DE8-8DDF-38981003C093
+2 RIN MH:IF2910
+2 DATE 1836
+1 DEAT
+2 _UID E1F4DC21-EA0D-42D4-8BBB-318CDFEF4E75
+2 RIN MH:IF2911
+2 DATE 13 AUG 1867
+2 PLAC El Cortijo
+1 FAMS @F33@
+1 FAMC @F481@
+1 OBJE
+2 FORM png
+2 TITL nacimiento
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1827_512_512.png
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 78 10 434 486
+2 _PHOTO_RIN MH:P1827
+2 _FILESIZE 31830
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1860_356_492.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1860
+2 _FILESIZE 29784
+2 _PARENTRIN @P1827@
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de bautismo Anastasio Valdemoros 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1424.pdf
+2 _DATE 19 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1424
+2 _FILESIZE 1734241
+1 OBJE
+2 FORM pdf
+2 TITL 1877 Relacion vecinos El Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1455.pdf
+2 _DATE 1877
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1455
+2 _FILESIZE 247993
+1 OBJE
+2 FORM pdf
+2 TITL 1867.08.13 Defuncion de Gregorio Ibarra Treviño 20250923 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1465.pdf
+2 _DATE 13 AUG 1867
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1465
+2 _FILESIZE 2178246
+1 OBJE
+2 FORM docx
+2 TITL Celestina y sus dos familias. Un siglo de vida en el Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1521.docx
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1521
+2 _FILESIZE 14798
+1 OBJE
+2 FORM pdf
+2 TITL 1904 Partida de nacimiento de Anastasio Baldemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1617.pdf
+2 _DATE 17 AUG 1904
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1617
+2 _FILESIZE 4548695
+1 OBJE
+2 FORM pdf
+2 TITL 1902 Carta Maria Asuncion Treviño Lombardo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2099.pdf
+2 _DATE 1902
+2 _PLACE Valparaiso
+2 _PHOTO_RIN MH:P2099
+2 _FILESIZE 293808
+1 OBJE
+2 FORM jpeg
+2 TITL Bautizo de Juana VaLDEMOROS
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2284_1536_2048.jpeg
+2 _DATE 6 JAN 1898
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2284
+2 _FILESIZE 905204
+1 OBJE
+2 FORM jpg
+2 TITL 1891.08.18 Librado Valdemoros Ibarra
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2334_1695_1941.jpg
+2 _DATE 18 AUG 1891
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2334
+2 _FILESIZE 303875
+0 @I498@ INDI
+1 RIN MH:I498
+1 _UID 073E69CB-0B9E-4C78-B365-24FE49D1612F
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Pedro /Gonzalez Fernandez Nalda/
+2 GIVN Pedro
+2 SURN Gonzalez Fernandez Nalda
+1 SEX M
+1 BIRT
+2 _UID EEC2F523-CD85-46AC-BFA5-EDE495E8C9D9
+2 RIN MH:IF2913
+2 DATE 1799
+2 PLAC Aleson (la Rioja)
+1 DEAT
+2 _UID E69A34C8-9A76-40AE-ADF7-38436959E43A
+2 RIN MH:IF2914
+2 DATE 2 JUL 1879
+2 PLAC Logroño, España
+1 FAMS @F176@
+1 OBJE
+2 FORM pdf
+2 TITL Polonia Melon El Cortijo 1869-1901
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1778.pdf
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _PHOTO_RIN MH:P1778
+2 _FILESIZE 10690
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1779
+2 _PARENTRIN @P1778@
+1 OBJE
+2 FORM png
+2 TITL Sin testamento
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1421_256_256.png
+2 _POSITION 36 5 219 250
+2 _PHOTO_RIN MH:P1421
+2 _FILESIZE 12322
+1 OBJE
+2 FORM pdf
+2 TITL 1879 Testamento Pedro Gonzalez Fernandez 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1423.pdf
+2 _DATE 1 JUL 1879
+2 _PLACE Logroño, España
+2 _PHOTO_RIN MH:P1423
+2 _FILESIZE 5150491
+1 OBJE
+2 FORM pdf
+2 TITL 13.051837 fallecimiento de Andres Gonzalez 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1430.pdf
+2 _DATE 13 MAY 1837
+2 _PLACE aleson (la Rioja)
+2 _PHOTO_RIN MH:P1430
+2 _FILESIZE 1191881
+1 OBJE
+2 FORM pdf
+2 TITL IMG1839 matrimonio Andres Pardal EvaristaGonzalez 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1433.pdf
+2 _DATE 13 NOV 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1433
+2 _FILESIZE 1086562
+1 OBJE
+2 FORM pdf
+2 TITL 1878 desheredar a Micaela Ibarra 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1443.pdf
+2 _DATE 9 JUL 1878
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1443
+2 _FILESIZE 4718729
+1 OBJE
+2 FORM pdf
+2 TITL 1839.12.18 Compra viñas Fuenmayo Pedro Gonzalez 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1487.pdf
+2 _DATE 18 DEC 1839
+2 _PLACE Fuenmayor
+2 _PHOTO_RIN MH:P1487
+2 _FILESIZE 4907903
+1 OBJE
+2 FORM pdf
+2 TITL 1871.09.15 Compra casa plaza San Sebastian 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1488.pdf
+2 _DATE 15 SEP 1871
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1488
+2 _FILESIZE 4055803
+1 OBJE
+2 FORM pdf
+2 TITL 1833.12.2 Compra casa en Calle Real 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1489.pdf
+2 _DATE 2 DEC 1833
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1489
+2 _FILESIZE 5770430
+1 OBJE
+2 FORM jpg
+2 TITL 1836.06.12 Pedro Gonzalez Lago
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1495_1725_2452.jpg
+2 _DATE 1836
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1495
+2 _FILESIZE 1123969
+1 OBJE
+2 FORM pdf
+2 TITL 1877.6.23 Alquiler Pedro Gonzalez a Esteban Prieto
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1496.pdf
+2 _DATE 23 JUN 1877
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1496
+2 _FILESIZE 292607
+1 OBJE
+2 FORM pdf
+2 TITL 1877.06.23 Compra de Andrés Pardal a Esteba Prieto
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1497.pdf
+2 _DATE 23 JUN 1877
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1497
+2 _FILESIZE 297697
+1 OBJE
+2 FORM pdf
+2 TITL 1837.04.12 Compra tierras en Fuenmayor Pedro Gonzalez 20250925 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1498.pdf
+2 _DATE 12 APR 1837
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1498
+2 _FILESIZE 6296145
+1 OBJE
+2 FORM pdf
+2 TITL 1837.01.09 Compra Viña Fuenmayoe Pedro Gonzalez 20250925 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1500.pdf
+2 _DATE 9 JAN 1837
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1500
+2 _FILESIZE 2916411
+1 OBJE
+2 FORM pdf
+2 TITL 1856.03.23 Compra lago Calle Mallor Pedro Gonzalez 20250925 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1501.pdf
+2 _DATE 23 MAR 1856
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1501
+2 _FILESIZE 5412698
+1 OBJE
+2 FORM pdf
+2 TITL 1867.11.01 Compra viñedo Pedro Gonzalez compra dela bodeguilla
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1502.pdf
+2 _DATE 1 NOV 1867
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1502
+2 _FILESIZE 1022880
+1 OBJE
+2 FORM pdf
+2 TITL 1879.07 Relacionde Bienes Pedro Gonzalez a su muerte 20250925 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1503.pdf
+2 _PHOTO_RIN MH:P1503
+2 _FILESIZE 2142509
+1 OBJE
+2 FORM pdf
+2 TITL 1879.09.28 preparacion reparto herencia de Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1504.pdf
+2 _DATE 28 SEP 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1504
+2 _FILESIZE 960835
+1 OBJE
+2 FORM pdf
+2 TITL 1868.02.10 Venta viñedo Vega Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1508.pdf
+2 _DATE 10 FEB 1868
+2 _PLACE el Cortijo
+2 _PHOTO_RIN MH:P1508
+2 _FILESIZE 2126092
+1 OBJE
+2 FORM pdf
+2 TITL Familia Grijalba removed
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2237.pdf
+2 _PHOTO_RIN MH:P2237
+2 _FILESIZE 80249
+1 OBJE
+2 FORM pdf
+2 TITL 1857 prestamo Pedro Gonzalez a Gavino Velez 20260630 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2296.pdf
+2 _DATE 1857
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P2296
+2 _FILESIZE 631906
+0 @I499@ INDI
+1 RIN MH:I499
+1 _UID F400AB32-D3D8-494A-A489-940F7743551C
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Petra /Villar Martinez/
+2 GIVN Petra
+2 SURN Villar Martinez
+2 _MARNM Gonzalez Fernandez Nalda
+1 SEX F
+1 BIRT
+2 _UID 6A0B4F7D-504D-497F-A386-0AC1192A9DC7
+2 RIN MH:IF2915
+2 DATE 1803
+2 PLAC Logroño, España
+1 DEAT
+2 _UID F131E48E-7D62-4127-8080-81F8A85118A5
+2 RIN MH:IF2916
+2 DATE AFT 8 JUN 1880
+1 OCCU Labradora
+2 _UID 1A59B589-9A22-47CB-BD11-424D2FE345D2
+2 RIN MH:IF2943
+1 FAMS @F176@
+1 OBJE
+2 FORM pdf
+2 TITL IMG1839 matrimonio Andres Pardal EvaristaGonzalez 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1433.pdf
+2 _DATE 13 NOV 1879
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _PHOTO_RIN MH:P1433
+2 _FILESIZE 1086562
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1436
+2 _PARENTRIN @P1433@
+1 OBJE
+2 FORM pdf
+2 TITL 1815 Fallecimiento de Zeledonio Villar 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1440.pdf
+2 _DATE 4 FEB 1815
+2 _PLACE eL Cortijo
+2 _PHOTO_RIN MH:P1440
+2 _FILESIZE 1303722
+1 OBJE
+2 FORM pdf
+2 TITL 1878 desheredar a Micaela Ibarra 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1443.pdf
+2 _DATE 9 JUL 1878
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1443
+2 _FILESIZE 4718729
+1 OBJE
+2 FORM pdf
+2 TITL 1879.09.28 preparacion reparto herencia de Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1504.pdf
+2 _DATE 28 SEP 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1504
+2 _FILESIZE 960835
+1 OBJE
+2 FORM pdf
+2 TITL 1868.02.10 Venta viñedo Vega Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1508.pdf
+2 _DATE 10 FEB 1868
+2 _PLACE el Cortijo
+2 _PHOTO_RIN MH:P1508
+2 _FILESIZE 2126092
+1 OBJE
+2 FORM pdf
+2 TITL Familia Grijalba removed
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2237.pdf
+2 _PHOTO_RIN MH:P2237
+2 _FILESIZE 80249
+0 @I506@ INDI
+1 RIN MH:I506
+1 _UID F04E47BC-8CD3-449E-A3E0-3D9F68DDE657
+1 _UPD 27 SEP 2025 22:23:23 GMT+1
+1 NAME Andres /Pardal Perez/
+2 GIVN Andres
+2 SURN Pardal Perez
+1 SEX M
+1 BIRT
+2 _UID A9E496A8-45C5-4649-8D23-D3A1A6B6FB4D
+2 RIN MH:IF2923
+2 DATE 1841
+2 PLAC Pino de Oro
+1 DEAT
+2 _UID AA222C04-2D83-48B0-B5E4-6550D6A60178
+2 RIN MH:IF5683
+2 DATE 16 NOV 1897
+2 PLAC El Cortijo
+2 CAUS cancer de estómago
+1 FAMS @F180@
+1 OBJE
+2 FORM jpg
+2 TITL Zamora
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1474_500_500.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 67 8 431 494
+2 _PHOTO_RIN MH:P1474
+2 _FILESIZE 24516
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1476_364_486.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1476
+2 _FILESIZE 22782
+2 _PARENTRIN @P1474@
+1 OBJE
+2 FORM pdf
+2 TITL IMG1839 matrimonio Andres Pardal EvaristaGonzalez 20250919 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1433.pdf
+2 _DATE 13 NOV 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1433
+2 _FILESIZE 1086562
+1 OBJE
+2 FORM pdf
+2 TITL 1880.11.18 Valoracion de una casa y de la Prensa 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1473.pdf
+2 _DATE 18 NOV 1880
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1473
+2 _FILESIZE 3614899
+1 OBJE
+2 FORM pdf
+2 TITL 1880.01.12 Credito andres Pardal y Segundo Ibarra 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1479.pdf
+2 _DATE 12 JAN 1880
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1479
+2 _FILESIZE 3666789
+1 OBJE
+2 FORM pdf
+2 TITL 1881.1.1 Compra Andres Pardal Casa a Herederos de Muro
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1480.pdf
+2 _DATE 1 JAN 1881
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1480
+2 _FILESIZE 3966207
+1 OBJE
+2 FORM pdf
+2 TITL 1870.11.11 Andres compra vinyas 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1486.pdf
+2 _DATE 11 NOV 1870
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1486
+2 _FILESIZE 4034617
+1 OBJE
+2 FORM pdf
+2 TITL 1877.3.5 Andres Pardal Compra viñas 20250924 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1490.pdf
+2 _DATE 5 MAR 1877
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1490
+2 _FILESIZE 2375468
+1 OBJE
+2 FORM pdf
+2 TITL 1877.06.23 Compra de Andrés Pardal a Esteba Prieto
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1497.pdf
+2 _DATE 23 JUN 1877
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1497
+2 _FILESIZE 297697
+1 OBJE
+2 FORM pdf
+2 TITL 1879.09.28 preparacion reparto herencia de Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1504.pdf
+2 _DATE 28 SEP 1879
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1504
+2 _FILESIZE 960835
+1 OBJE
+2 FORM pdf
+2 TITL 1868.02.10 Venta viñedo Vega Pedro Gonzalez 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1508.pdf
+2 _DATE 10 FEB 1868
+2 _PLACE el Cortijo
+2 _PHOTO_RIN MH:P1508
+2 _FILESIZE 2126092
+1 OBJE
+2 FORM pdf
+2 TITL 1877.12.05 Andres Pardal compra un pajar 20250926 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1509.pdf
+2 _PHOTO_RIN MH:P1509
+2 _FILESIZE 2583457
+1 OBJE
+2 FORM jpg
+2 TITL 1897.11.15 Fallece Andres Pardal
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1513_438_389.jpg
+2 _DATE 15 NOV 1897
+2 _PLACE El Cortijo
+2 _SCAN Y
+2 _PHOTO_RIN MH:P1513
+2 _FILESIZE 59430
+1 OBJE
+2 FORM docx
+2 TITL Celestina y sus dos familias. Un siglo de vida en el Cortijo
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1521.docx
+2 _PLACE EL Cortijo
+2 _PHOTO_RIN MH:P1521
+2 _FILESIZE 14798
+1 OBJE
+2 FORM pdf
+2 TITL 1877.05.13 Defuncion de Santiago Pardal Perez en Cuba 20251027 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1797.pdf
+2 _DATE 13 MAY 1877
+2 _PLACE Cuba
+2 _PHOTO_RIN MH:P1797
+2 _FILESIZE 2721584
+0 @I841@ INDI
+1 RIN MH:I841
+1 _UID BBCA5D79-DE7E-417A-B294-B8D1A75B6E01
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Alicia /Ruiz Alonso/
+2 GIVN Alicia
+2 SURN Ruiz Alonso
+1 SEX F
+1 BIRT
+2 _UID 6B8A26E1-BD78-49D7-BD85-80296CCDA169
+2 RIN MH:IF6389
+1 FAMS @F276@
+0 @I842@ INDI
+1 RIN MH:I842
+1 _UID 50BE4E87-4B25-44E5-8DFD-138020B3786D
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Andrés /Elguezabal Uriarte/
+2 GIVN Andrés
+2 SURN Elguezabal Uriarte
+1 SEX M
+1 BIRT
+2 _UID F3AE5518-ADBB-4044-B663-3EA6883E90EB
+2 RIN MH:IF6390
+1 OCCU marino
+2 _UID B16129A3-F04A-4E6D-A822-4A3DF918E9A5
+2 RIN MH:IF6391
+1 FAMS @F277@
+0 @I863@ INDI
+1 RIN MH:I863
+1 _UID DC0A40B6-B7D2-4C97-8E39-67DC88718082
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Antonio /Vidasolo/
+2 GIVN Antonio
+2 SURN Vidasolo
+1 SEX M
+1 BIRT
+2 _UID 3A1797EE-8E3A-40C4-ADC5-97E637E56115
+2 RIN MH:IF6897
+1 DEAT
+2 _UID 59549CD2-59F2-44CF-BDA1-D4B211D75AE5
+2 RIN MH:IF6898
+2 DATE BEF 2009
+1 FAMS @F284@
+1 OBJE
+2 FORM jpg
+2 TITL Vicenta Mendoza
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P764_621_311.jpg
+2 _DATE 1 APR 2009
+2 _PLACE Logroño
+2 _POSITION 198 6 422 304
+2 _PHOTO_RIN MH:P774
+2 _FILESIZE 56399
+0 @I1177@ INDI
+1 RIN MH:I1177
+1 _UID 64633d40fdb2a1edb7b8001a7dda7111
+1 _UPD 16 MAY 2023 10:24:36 GMT+1
+1 NAME Maria del Carmen /Larrucea Valdemoros/
+2 GIVN Maria del Carmen
+2 SURN Larrucea Valdemoros
+1 SEX F
+1 BIRT
+2 _UID 64633dc4fdb2a1edb7b8001a7dda7111
+2 RIN MH:IF7600
+2 DATE 1 MAR 1927
+2 PLAC Logroño, España
+1 DEAT
+2 _UID 64633dc4c0d281edb7b8001a7dda7111
+2 RIN MH:IF7601
+2 DATE 24 AUG 1928
+2 PLAC Logroño, España
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 TITL Esquela Maria Carmen Larrucea 1928
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1207_772_627.jpg
+2 _DATE 24 AUG 1928
+2 _PLACE Logroño, España
+2 _POSITION 155 5 616 621
+2 _PHOTO_RIN MH:P1207
+2 _FILESIZE 78810
+0 @I1190@ INDI
+1 RIN MH:I1190
+1 _UID 6475d2584d5cd1edb7b9001a7dda7111
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Maximo /Valdemoros Diaz/
+2 GIVN Maximo
+2 SURN Valdemoros Diaz
+1 SEX M
+1 BIRT
+2 _UID 6475d2724d5cd1edb7b9001a7dda7111
+2 RIN MH:IF7627
+1 FAMS @F400@
+1 FAMC @F54@
+1 OBJE
+2 FORM jpg
+2 TITL Maximo Valdemoros Diaz (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2112_4032_3024.jpg
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _POSITION 2875 1044 3224 1507
+2 _PHOTO_RIN MH:P2112
+2 _FILESIZE 1597197
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2114_557_463.jpg
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P2114
+2 _FILESIZE 21338
+2 _PARENTRIN @P2112@
+1 OBJE
+2 FORM pdf
+2 TITL Maximo Valdemoros Diaz (1)
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P2115.pdf
+2 _PHOTO_RIN MH:P2115
+2 _FILESIZE 220265
+0 @I1191@ INDI
+1 RIN MH:I1191
+1 _UID 6475d27c947011edb7b9001a7dda7111
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Azucena /Vicente/
+2 GIVN Azucena
+2 SURN Vicente
+1 SEX F
+1 BIRT
+2 _UID 6475d2914d5cd1edb7b9001a7dda7111
+2 RIN MH:IF7628
+1 FAMS @F400@
+0 @I1446@ INDI
+1 RIN MH:I1446
+1 _UID 68d2c0f4db4531f0ba9660ff9e4a952f
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Marcelo /Ibarra/
+2 GIVN Marcelo
+2 SURN Ibarra
+1 SEX M
+1 BIRT
+2 _UID 68d2c0f7db4531f0ba9660ff9e4a952f
+2 RIN MH:IF8137
+1 DEAT
+2 _UID 68d2c0f7e62511f0ba9660ff9e4a952f
+2 RIN MH:IF8138
+2 DATE BEF 1857
+1 FAMS @F481@
+1 OBJE
+2 FORM pdf
+2 TITL 1867.08.13 Defuncion de Gregorio Ibarra Treviño 20250923 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1465.pdf
+2 _DATE 13 AUG 1867
+2 _PLACE El Cortijo
+2 _PHOTO_RIN MH:P1465
+2 _FILESIZE 2178246
+0 @I1447@ INDI
+1 RIN MH:I1447
+1 _UID 68d2c0f9db4531f0ba9660ff9e4a952f
+1 _UPD 29 DEC 2025 08:15:15 GMT+1
+1 NAME Heramenga o Hermenegilda /Treviño Torres/
+2 GIVN Heramenga o Hermenegilda
+2 SURN Treviño Torres
+1 SEX F
+1 BIRT
+2 _UID 68d2c0fddb4531f0ba9660ff9e4a952f
+2 RIN MH:IF8139
+2 DATE 1797
+2 PLAC El Cortijo
+1 DEAT
+2 _UID 68d2c0fde62511f0ba9660ff9e4a952f
+2 RIN MH:IF8140
+1 FAMS @F481@
+1 OBJE
+2 FORM pdf
+2 TITL 1867.08.13 Defuncion de Gregorio Ibarra Treviño 20250923 0001
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\P1465.pdf
+2 _DATE 13 AUG 1867
+2 _PLACE El Cortijo
+2 _PRIM Y
+2 _PRIM_CUTOUT Y
+2 _PHOTO_RIN MH:P1465
+2 _FILESIZE 2178246
+1 OBJE
+2 FORM jpg
+2 FILE C:\Users\Jose Maria\Documents\MyHeritage\Principal MatasLarrucea 2026_05\Photos\
+2 _PRIM Y
+2 _CUTOUT Y
+2 _PHOTO_RIN MH:P1466
+2 _PARENTRIN @P1465@
+0 @F2@ FAM
+1 RIN MH:F2
+1 _UID 9978EA29-8261-4B2E-B166-99871DED711C
+1 HUSB @I3@
+1 WIFE @I32@
+1 NOTE Casados en  San Juan Bautista de Gracia, Barcelona
+1 MARR
+2 _UID 154D6E6E-8C2A-441E-ACA6-F02BE09CDED9
+2 RIN MH:FF2
+2 DATE 16 AUG 1963
+2 PLAC Barcelona, España
+1 EVEN
+2 _UID 3A1DCCDC-7EF3-46A8-9F89-0518DD6E3C1B
+2 RIN MH:FF28
+2 TYPE Death of Spouse
+0 @F10@ FAM
+1 RIN MH:F10
+1 _UID 9B54573E-DF8D-439B-BA3C-5E23E35CB7B9
+1 HUSB @I33@
+1 WIFE @I34@
+1 CHIL @I105@
+1 CHIL @I32@
+1 CHIL @I1177@
+1 CHIL @I112@
+1 CHIL @I114@
+1 MARR
+2 _UID EAFA3C55-E1FA-46EB-A57C-2010821D9F05
+2 RIN MH:FF29
+2 DATE 5 APR 1923
+1 EVEN
+2 _UID 0A992F27-368C-442F-A5D9-C4AEDA8B4A4F
+2 RIN MH:FF90
+2 TYPE Family Address
+2 PLAC Provenza 60
+1 EVEN
+2 _UID E0C95228-597D-4E61-A554-2594DF4A3BC6
+2 RIN MH:FF91
+2 TYPE Family Address
+2 PLAC La Encina 2
+0 @F13@ FAM
+1 RIN MH:F13
+1 _UID F0268FA3-A3B1-4926-B9A3-EC62404A9AE7
+1 HUSB @I43@
+1 WIFE @I40@
+1 CHIL @I156@
+1 CHIL @I159@
+1 CHIL @I164@
+1 CHIL @I160@
+1 CHIL @I34@
+1 CHIL @I158@
+1 CHIL @I157@
+1 MARR
+2 _UID 042C23F1-7A3C-4E3F-8983-41BD03C3EC26
+2 RIN MH:FF32
+0 @F31@ FAM
+1 RIN MH:F31
+1 _UID 142A1010-F3A0-4AAA-8FE1-685AD5392535
+1 HUSB @I106@
+1 WIFE @I105@
+1 MARR
+2 _UID E039A845-2120-49BB-84E2-F9C0E667CD15
+2 RIN MH:FF50
+2 DATE 20 MAR 1943
+0 @F33@ FAM
+1 RIN MH:F33
+1 _UID 895F920F-697E-4B0A-BEB3-C225CEAA1A00
+1 HUSB @I497@
+1 WIFE @I111@
+1 CHIL @I40@
+1 MARR
+2 _UID 7E24249E-B01E-45DF-8AD0-F5F9AA327C54
+2 RIN MH:FF52
+2 DATE CAL 1863
+2 PLAC El Cortijo
+0 @F34@ FAM
+1 RIN MH:F34
+1 _UID 17FBADBE-A46F-48CD-8F2F-1E00A05FD86B
+1 HUSB @I113@
+1 WIFE @I112@
+1 MARR
+2 _UID 56BF984F-0E8B-43E5-9773-03DFF0B1F643
+2 RIN MH:FF53
+0 @F35@ FAM
+1 RIN MH:F35
+1 _UID 34386DB6-72A4-4C62-9097-EEB37598434B
+1 HUSB @I115@
+1 WIFE @I114@
+1 MARR
+2 _UID C975EA3E-F5D2-4D4C-9123-0CE4D6CA2CE3
+2 RIN MH:FF54
+0 @F51@ FAM
+1 RIN MH:F51
+1 _UID D89A63E3-ABDD-4A5B-98FC-7C97CEDECCAB
+1 HUSB @I158@
+1 WIFE @I161@
+1 CHIL @I342@
+1 MARR
+2 _UID A0F48608-2C95-44F5-82F1-68D8966EBF2A
+2 RIN MH:FF70
+2 DATE 29 DEC 1932
+0 @F52@ FAM
+1 RIN MH:F52
+1 _UID 94D3A307-D3A9-4FF8-9E97-8AB7C285BBBC
+1 HUSB @I156@
+1 WIFE @I162@
+1 CHIL @I349@
+1 CHIL @I352@
+1 MARR
+2 _UID C58EC733-493E-477A-AD2A-523CB573A59A
+2 RIN MH:FF71
+0 @F53@ FAM
+1 RIN MH:F53
+1 _UID 2FC03045-11AB-41E2-A106-DD65B806444A
+1 CHIL @I162@
+1 CHIL @I161@
+1 MARR
+2 _UID 8812F231-E67A-4637-BA7B-80F1DF911DD6
+2 RIN MH:FF72
+0 @F54@ FAM
+1 RIN MH:F54
+1 _UID 4CF94B52-C36F-4519-A6A0-693A3EF501AD
+1 HUSB @I160@
+1 WIFE @I165@
+1 CHIL @I1190@
+1 MARR
+2 _UID 20CA4736-D87C-42E5-81E2-BE14140443C5
+2 RIN MH:FF73
+2 DATE 29 OCT 1957
+0 @F66@ FAM
+1 RIN MH:F66
+1 _UID 0A318D28-80B1-4D37-A6B8-EC8805739C17
+1 HUSB @I157@
+1 WIFE @I196@
+1 CHIL @I197@
+1 CHIL @I198@
+1 MARR
+2 _UID 6B5102A9-E568-4B19-9494-57785C81893B
+2 RIN MH:FF87
+0 @F109@ FAM
+1 RIN MH:F109
+1 _UID D689D335-3942-4B3D-8C82-D39562A2195B
+1 HUSB @I342@
+1 WIFE @I343@
+1 MARR
+2 _UID 03CEA29A-3E20-469B-BF71-F9E9EE18DD0F
+2 RIN MH:FF326
+0 @F112@ FAM
+1 RIN MH:F112
+1 _UID 1DC7F573-D89A-45FB-8377-C50BBB457A1B
+1 HUSB @I349@
+1 WIFE @I350@
+1 MARR
+2 _UID BD6C143B-71DB-4DF2-B324-410773545632
+2 RIN MH:FF329
+0 @F113@ FAM
+1 RIN MH:F113
+1 _UID B02776EA-5058-4A13-870E-31B1B6F4F536
+1 HUSB @I352@
+1 WIFE @I353@
+1 MARR
+2 _UID 9F81D851-211C-4CFE-907E-E6D0893EF9CD
+2 RIN MH:FF330
+2 DATE 5 NOV 1944
+2 PLAC el Cortijo
+0 @F117@ FAM
+1 RIN MH:F117
+1 _UID 33783C42-E9AC-4E63-8FAB-D5FBF1E2AECF
+1 HUSB @I159@
+1 WIFE @I361@
+1 CHIL @I363@
+1 CHIL @I365@
+1 CHIL @I362@
+1 MARR
+2 _UID 64EB124A-F8DB-4769-B39C-B6014A78ADB9
+2 RIN MH:FF396
+0 @F118@ FAM
+1 RIN MH:F118
+1 _UID FAF1575D-D5C1-4C9E-AC9F-2E2C0DF9142E
+1 HUSB @I364@
+1 WIFE @I363@
+1 MARR
+2 _UID 60EF5833-DFE6-4A90-BEF3-2BBE62670319
+2 RIN MH:FF397
+0 @F126@ FAM
+1 RIN MH:F126
+1 _UID 4430249C-DD95-4842-9EF9-253683A038BC
+1 HUSB @I362@
+1 WIFE @I376@
+1 MARR
+2 _UID B3C3D1C3-0DB2-417E-BFD5-664040A4F555
+2 RIN MH:FF408
+0 @F142@ FAM
+1 RIN MH:F142
+1 _UID 97A219B2-FC2C-407C-A4F8-734E07D7A9E0
+1 HUSB @I164@
+1 WIFE @I407@
+1 CHIL @I408@
+1 CHIL @I409@
+1 CHIL @I410@
+1 CHIL @I411@
+1 CHIL @I412@
+1 MARR
+2 _UID 148F1C1A-CDF4-4D46-9AB1-5C55AEA89F86
+2 RIN MH:FF443
+0 @F176@ FAM
+1 RIN MH:F176
+1 _UID A6D70202-34A2-4FA2-9250-20AB4527CCC8
+1 HUSB @I498@
+1 WIFE @I499@
+1 CHIL @I111@
+1 MARR
+2 _UID DD636FB3-8518-472C-93F1-7CD77E077D1D
+2 RIN MH:FF515
+0 @F180@ FAM
+1 RIN MH:F180
+1 _UID B054623E-5622-41ED-B61C-6038421E42D8
+1 HUSB @I506@
+1 WIFE @I111@
+1 MARR
+2 _UID 77ABDE8D-50B3-403E-BC41-F75D852CDD7B
+2 RIN MH:FF519
+2 DATE 20 NOV 1879
+0 @F276@ FAM
+1 RIN MH:F276
+1 _UID EA206F1F-EB83-413B-B367-6D25F2C4F591
+1 HUSB @I409@
+1 WIFE @I841@
+1 MARR
+2 _UID 469DE52C-06A7-4FE1-9843-6FA157D2E80E
+2 RIN MH:FF1303
+0 @F277@ FAM
+1 RIN MH:F277
+1 _UID 5AC90B56-A62D-4F68-B3E2-74D2B872A353
+1 HUSB @I842@
+1 WIFE @I410@
+1 MARR
+2 _UID F44D8063-9139-41A6-8E2D-967905450928
+2 RIN MH:FF1304
+0 @F284@ FAM
+1 RIN MH:F284
+1 _UID 1B050672-F794-4640-A3CF-40F95A7B3750
+1 HUSB @I863@
+1 WIFE @I412@
+1 MARR
+2 _UID 16D90DE7-C9D2-4A16-AD19-AED632B17E82
+2 RIN MH:FF1421
+0 @F400@ FAM
+1 RIN MH:F400
+1 _UID 6475d27c4d5cd1edb7b9001a7dda7111
+1 HUSB @I1190@
+1 WIFE @I1191@
+1 MARR
+2 _UID 6475d27c860001edb7b9001a7dda7111
+2 RIN MH:FF1545
+0 @F481@ FAM
+1 RIN MH:F481
+1 _UID 68d2c0f4e62511f0ba9660ff9e4a952f
+1 HUSB @I1446@
+1 WIFE @I1447@
+1 CHIL @I497@
+1 MARR
+2 _UID 68d2c0f4a18561f0ba9660ff9e4a952f
+2 RIN MH:FF1626
+0 TRLR
